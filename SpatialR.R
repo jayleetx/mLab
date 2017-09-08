@@ -1,6 +1,6 @@
 # https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
 
-setwd("~/Desktop/Creating-maps-in-R-master")
+setwd("Creating-maps-in-R-master")
 library(rgdal)
 lnd <- readOGR(dsn = "data", layer = "london_sport")
 head(lnd@data, n = 2)
@@ -20,3 +20,7 @@ plot(lnd[sel, ], col = "turquoise", add = T)
 # show zones who touch within 10km of London's centroid
 library(rgeos)
 centroids <- coordinates(gCentroid(lnd, byid = T))
+lnd_centr <- coordinates(gCentroid(lnd))
+library(dplyr)
+centroids <- centroids %>%
+  mutate(dist = spDistsN1(pts = centroids, pt = lnd_centr))
