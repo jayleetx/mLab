@@ -1,0 +1,57 @@
+---
+title: "Code examples- data viz"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Setup
+
+```{r}
+library(ggplot2)
+library(devtools)
+install_github('ismayc/pnwflights14')
+library(pnwflights14)
+data(flights)
+data(weather)
+```
+
+### Histogram
+
+```{r}
+ggplot(weather, aes(x = temp)) +
+  geom_histogram(bins = 60, col = 'white')
+```
+
+### Line Graph
+
+```{r}
+jan_temps <- dplyr::filter(weather, origin == "PDX", month == 1, day <= 15)
+ggplot(jan_temps, aes(x = date, y = temp)) +
+  geom_line()
+```
+
+### Scatterplot
+
+```{r}
+ak <- dplyr::filter(flights, carrier == "AS", dep_delay < 500)
+ggplot(ak, aes(x = dep_delay, y = arr_delay)) +
+  geom_point(alpha = .1)
+```
+
+### Barplot
+
+```{r}
+ggplot(flights, aes(x = carrier)) +
+  geom_bar()
+airlines
+```
+
+### Boxplot
+
+```{r}
+ggplot(weather, aes(x = factor(month), y = temp)) +
+  geom_boxplot()
+```
