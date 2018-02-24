@@ -1,0 +1,11 @@
+I’ve attached the Excel file that I will have them import. And all I want them to be able to do is to draw two connected lines, one for one state (in my case, OR), and for the second state (WA).  And that’s it.
+
+Just a very little introduction to graphics which is not covered in the book.
+
+turnout <- read_excel("Pol311_Labs/pset2 master/data/1980-2014 November General Election.xlsx”)
+
+turnout_or_wa <- subset(turnout, subset = (X1980_2014_November_General_Election$`ICPSR State Code`== 72 | X1980_2014_November_General_Election$`ICPSR State Code` == 73))
+
+plot(turnout_or_wa$year, turnout_or_wa$`ICPSR State Code`)			# this is an ugly plot
+
+….now … how can I get a plot with lines connected for OR and for WA separately? 

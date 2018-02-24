@@ -1,0 +1,5 @@
+This is survey data that we gathered on perceptions of raised and lowered variants of the word BAG. The file has information about our listeners, as well as their responses to a number of questions (open-ended, forced choice, and ratings scales) we asked them about the files they heard (Each listener heard two examples, a lowered and a raised version). We're going to want to:
+
+1) Summarize the listener demographics (columns B through G). It's worth noting that each listener is represented by two rows in the current structure.
+2) Summarize the responses to the forced choice questions (columns M, N, and P) according to Condition (Column J)
+3) Summarize the overall ratings (Column 0 and Q through X), and then by Condition

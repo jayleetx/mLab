@@ -1,0 +1,36 @@
+A data wranglin' project. I want everyone to look at this because it's the kind of problem the collective "we" are tasked with solving. In the shared folder please find a file called LT5AVar15.  Take a look at the file (should open in a text editor after download).
+
+Background
+What you are looking at is output from observations for some Psych research. We do not need most of what is in this file. Note observation date at the beginning of the file. Find the "O" matrix (near bottom of file), which has 9 numbers. These 9 numbers are (1) a placeholder 0 [not needed] and (2-9) counts of 8 specific behaviors for a given animal.
+
+Each animal (n=10) is observed once a day for these behaviors (n=8). Each animal will be observed for multiple days (say, n=60). Each observation takes place under a treatment condition (n=3).
+
+Each observation creates one file. Files are named using the following convention:
+researcherInitials animalNumber treatmentCondition observationNumber 
+So we are looking at researcher LT, animal 5A, treatment Var, and observation# 15. 
+(10 animals, designated by a combination of 1-5 and A, B)
+
+...and for the file we're looking at, the observationResults of the 8 behaviors are 44 | 2 | 7 | 10 | 41 | 11 | 18 | 36. (these are counts, if that matters to you - will always be whole numbers)
+
+
+Problem to be solved
+Ultimately, we need only the relevant information out of this file, and the many other files like it. It is not reasonable to approach this task manually because there are so many output files.
+
+By the end of the week (yes, this is a real task), I need to provide this researcher with a proposal (or many) for how we are going to wrangle their data. Start by getting the data to "goal 1" below.
+
+ You each have different tech skills you bring - feel free to use whatever you are most comfortable with to solve this problem (Python, R, ...?) or use words/pictures/whatever to describe the process you imagine you'd use, even if you can't code it (yet). 
+
+End goal
+Goal 1 / minimum :
+One file per animal that contains the following information:
+AnimalID | dateOfObs | treatment | resultsObservation1 | resultsObservation2 ... 10
+
+Goal 2 / even better :
+One file per animal  that contains the following information:
+AnimalID | dateOfObs | treatment | obsNumber | obsResults
+
+Goal 3 / ideal :
+One file, total,  that contains the following information:
+AnimalID | dateOfObs | treatment | obsNumber | obsResults
+
+Note from Jay: I removed all the data before "O:", and scrambled the data from then on.

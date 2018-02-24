@@ -1,0 +1,222 @@
+---
+title: "Reed R Help"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=TRUE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+# Setup
+
+There are two main ways to start working in R: through Reed's RStudio Server, or by downloading R and RStudio on your computer.
+
+The RStudio Server can be found at  at [rstudio.reed.edu](http://rstudio.reed.edu) by logging in with your regular Reed logins. The server has less setup to think about, but is only available online.
+
+CIS has some [instructions for setting up R on your computer](http://www.reed.edu/data-at-reed/software/R/r_studio.html). It's a little trickier at the start, but worth the trouble if you'll be using R a lot.
+
+# Getting oriented
+
+![The RStudio Layout](rstudio_pic.png)
+
+When you open RStudio, it'll look something like this. There are four main panes: the console, the text editor, your environment & history, and a general explorer/viewer.
+
+## RStudio Panes {.tabset}
+
+### Console
+
+![](console_pic.png)
+
+The console, in the lower left of the screen, is where R code is actually evaluated. Code can be typed in after the `>` to run, and its output appears below the input line in black. The second line of code tells R to display a data set called `iris`.
+
+**************************************************
+
+### Text editor
+
+
+
+The text editor is where you can work on things like R scripts and R Markdown documents. Scripts are files that just contain R code to be run, and Markdown files are a mix of code and regular text used for reports and presentations.
+
+**************************************************
+
+# Working in R
+
+## Introductory terms
+
+### Objects
+
+Objects are like nouns, that we act on with functions. Some examples of objects are numbers, vectors, lists, and variables (named objects, like `x` above). There are lots of different object types
+
+### Functions
+
+Functions do what their name suggests: they take in some input, and do something in response. Functions are like verbs that do things to objects.
+
+## Data structures
+
+### Single things
+
+At the individual level, there are a handful of basic data types that an object can be:
+
+* Logical, `TRUE` or `FALSE`. In the background, these are just special modifications of 1 and 0, respectively. This means you can act on them like numbers: `sum(c(T, F, F, T, F))` returns ``r sum(c(T, F, F, T, F))``. The basic logical operators are `&` (and), `|` (or), and `!` (not).
+
+* Numeric (subtypes integer, double, complex). These are numbers, with specifications for integers and complex numbers. Note that `i` is treated the same as any other variable like `x` or `time`, but `1i` refers to the square root of -1.
+* Character. This is any character string you can type in. Note that `'9'` and `9` are not the same, because the first one is a character string and the second an integer. Trying to add two characters results in an error, so make sure any numbers needed for calculation are not actually character strings if this happens.
+
+### Lots of things {.tabset}
+
+#### Vectors
+Vectors are a collection of objects of the same data type, created with the combine function `c()`.
+
+* If you put two different types of objects in, it will try to combine them somehow: `c(4, 'a')` returns ``r c(4, 'a')``, a vector of 2 character strings.
+
+* Numerical operations on vectors work component-wise, so (2,3,4) + (4,3,2) = (6,6,6) in R.
+  + If the vectors are not the same length, R will loop around the shorter vector until the longer vector is done: `c(3,4,5) + c(5,6,7,8,9)` returns ``r c(3,4,5) + c(5,6,7,8,9)``, and an error because it stopped in the middle of a full cycle of the first vector.
+  + As long as the length of the longer vector is a multiple of length of the shorter one, this error will not occur.
+
+* You can access the ith item in a vector by passing `vector[i]`.
+
+**************************************************
+
+#### Matrices
+
+A matrix in R is an array of numbers in rows and columns:
+
+```{r}
+matrix(c(2, 4, 3, 1, 5, 7), nrow=3, ncol=2)
+```
+
+This code creates a 3x2 matrix out of the given vector. Matrices always fill in top to bottom and then left to right.
+
+Just like a vector, all of the entries in a matrix must be of the same type.
+
+`cbind()` or `rbind()` can combine multiple matrices with the same number of columns or rows, respectively, into a larger matrix.
+
+**************************************************
+
+#### Lists
+
+A list is the most general type of R object. Conceptually, a list is a generic "vector of objects". We can make a list, for example, out of a matrix of numbers, a character vector, and a logical object:
+
+```{r}
+m <- matrix(c(2, 4, 3, 1, 5, 7), nrow=3, ncol=2)
+c <- c("hello", "goodbye")
+q <- list(m, c, TRUE)
+q
+```
+
+The double bracketed numbers are the index we can access items in the list through. To get the character vector we used, we could run `q[[2]]`, and to get "goodbye" out of that we could run `q[[2]][2]`.
+
+If we want, we can even make a list out of a list:
+
+```{r}
+list(FALSE, 1:10, q)
+# q is our list from the last code chunk
+```
+
+One of the pros of the list is that it's extremely flexible about what can be stored inside of it. This comes, however, at the price of not being as uniform in content as some of the other data types in R. Lists can be very useful, as long as you're careful about using and accessing them.
+
+**************************************************
+
+#### Data frames
+
+A data frame is somewhere in between a list and a matrix:
+
+* The basic structure of a data frame is a list of equal-length vectors.
+
+* Since it's based on a list, the entries in a data frame can be of multiple types across columns. Column A can have logical entries, column B can have numbers, and column C can be a character vector.
+
+* Data frames will often look like matrices, but the same functions will not always work on both types of object.
+
+One of the built-in data sets that comes with R is `iris`. Here are a few rows of the data:
+
+```{r echo = F}
+kable(iris[c(1, 2, 57, 58, 149,150), ])
+```
+
+The first 4 columns are all numeric, and the last column is a character vector.
+
+**************************************************
+
+## Working with matrices
+
+This includes `tbl_df, tbl, data.frame, matrix`. Things that work like this often have column labels
+
+### Subsetting and accessing entries
+
+To get the entry in row A and column B, the format is `data[A, B]`. These can be determined by:
+
+* Numbers, `data[3, 4]`
+
+* Names, `data[27, 'proportion']`
+  + Usually rows are unnamed, but if they have names this works for rows as well
+  
+* Vectors, `data[8:10, c(3, 6, 'totals')]`
+
+* Logical statements, `data[data$n > 20, c(n, prop)]` 
+  + Get the rows where the value in the column `n` are greater than 20, and get the columns `n` and `prop`
+  
+* Logical vectors, `data[c(TRUE, TRUE, FALSE, TRUE), ]`
+  + Get the entirety of rows 1, 2, and 4
+  + This is what goes on behind the scenes when you pass in a logical statement
+
+To get the entirety of column `colname`, the format is `data$colname`. You can only use names (not indices) for this method, and no quotes are necessary. It isn't as customizable as the bracket format, but is good for saving time on simple tasks and making your code easier to read.
+
+## Data analysis
+
+There are two commonly used paradigms for data analysis in R: the `data.table` package, and the set of packages called the tidyverse. We'll cover the methods below using the tidyverse, but `data.table` is also a good way to accomplish these tasks.
+
+## Data visualization
+
+Base R has functions to visualize data, but here we'll be covering the methods in the `ggplot2` package.
+
+## Miscellaneous
+
+`?function` brings up the help file for `function()`.
+
+`print()` is often redundant, just running the expression inside alone will work; i.e. `print(1:5)` and `1:5` will both return ``r 1:5``.
+
+`NA`, `NULL`, and `NaN` are different.
+
+* `NA` represents a possible space for a value, but one that does not have anything inside.
+  + For example, an empty vector of length 5 can be created: `rep(NA, 5)` returns ``r rep(NA, 5)``.
+
+* `NULL` does not even represent a possible space for a value, it just returns nothing.
+  + The same attempt with `NULL` acts as follows: `rep(NULL, 5)` returns `NULL`.
+
+* `NaN` means that R tried to calculate a numerical value, but received something it could not make into a number or infinity.
+  + Dividing a number by 0 will return `Inf` or `-Inf`, but dividing 0 by 0 will return `NaN`.
+    + Another example, `-1/0 - 1/0` returns ``r -1/0 - 1/0``, but `1/0 - 1/0` returns ``r 1/0 - 1/0``.
+
+`=` and `==` do different things.
+
+* Single equals creates equality, so one way to assign the value 5 to the variable x is with `x = 5`. This is also used in functions, such as `dnorm(vec, mean = 5)` to set the parameter `mean` in `dnorm` equal to 5.
+
+* Double equals tests for equality, so one way to check if some variable x is equal to 5 is with `x == 5`. If the variable x is already set to be 5, this will return `TRUE`, otherwise `FALSE`. 
+
+* The `==` can also be used for filtering because it can return a vector of logicals; see “Subsetting” above.
+In general `<-` and `=` are equivalent, but sometimes if you use `<-` for arguments inside a plotting function you’ll get weird labels on your graph.
+
+# Resources
+
+* [CRAN](https://cran.r-project.org/), to download R for your computer
+* [RStudio](https://www.rstudio.com/), to download the RStudio program
+* [Reed's RStudio server](https://rstudio.reed.edu/), which uses the regular Kerberos login (accessible off campus)
+* [R-fiddle](http://www.r-fiddle.org/), an online space to quickly test/"fiddle with" code
+* [DataCamp](https://www.datacamp.com/), for some R tutorials
+* [R Documentation](https://www.rdocumentation.org/), a website with help files for pretty much every R package, even those not on CRAN (via [Bioconductor](https://www.bioconductor.org/) and [GitHub](https://github.com/))
+* [R Tutorial](http://www.r-tutor.com/), for a lot of the research behind this doc

@@ -1,0 +1,7 @@
+So, here's the problem and the data ...
+
+.... researcher  is trying to get GC content out of her sequences, using the seqinr package. seqinr has some funkiness in terms of data formats, from my work with it...
+
+Attached also == my solution. Which is janky and a bit manual, and also got her the numbers she needed by lab meeting.
+
+How would you approach this?

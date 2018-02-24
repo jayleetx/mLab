@@ -1,0 +1,67 @@
+Reproducibility: How R Markdown can help you (and others) organize your workflow and retrace your steps
+R Markdown is a document type that can integrate many separate files into one "master" file that compiles them all to produce a report, homework assignment, web app, or thesis, among many other things. We'll get some hands-on experience with the R Markdown format, explore the different ways we can publish a document, and look at the thesisdown package as a Markdown-style template for the Reed senior thesis. Some applications of R Markdown to scientific reproducibility (natural and social sciences) will be discussed. Beginner friendly! You don't need to know R to use R markdown.
+
+
+
+Pre-class: have R and RStudio (recommended, not required) downloaded, or log onto the server
+
+What is a .RMD document?
+<Display a file on the big screen>
+- Created by RStudio
+- Plain text file: you can create a regular text file and save with the .Rmd extension (or use the template)
+- Mixes text, *code chunks* (any language), images, and formatting
+- Similar to LaTeX in that this is a source file, which creates a finished product (HTML, PDF, Word)
+- Compatible with LaTeX, HTML formatting, Markdown-style formatting
+- Can even use other languages
+
+RStudio comes with a .Rmd template.
+<Open a .Rmd file, give it a name, leave it as HTML output>
+<Note: this won't be what your output file looks like, it's just the instructions>
+
+- YAML: contains "metadata" for the doc and universal formatting rules
+- Title, date, author
+- Output type (HTML, PDF, Word, ioslides/Beamer, GitHub doc)
+- Table of contents
+- Standard themes or custom CSS file for HTML formatting
+- How to display tables, plots, and images
+
+Text: Regular text! Uses markdown formatting
+- ### for headers
+- *italics*, **bold**
+- $inline math$
+- [name](web/file link)
+* list
+* list 2
+  + sublist
+
+1. Ordered list 1
+2. Ordered list 2
+
+Code: Both chunk style and inline
+- Chunks have the ```{r} code here``` format
+- Inline uses `r code here`
+
+Knitting: turning your text file into output
+- RStudio "Knit" button
+- `rmarkdown::render("file")`
+- By default, this will print and evaluate code chunks: any code will be printed, and any visible output will display
+
+Why should I be using R Markdown?
+- It's a good document format, even for just text output.
+- Solves (some of) the problem of "well, it works on my computer!" (more on this soon)
+- Follows the ethos of open-source/transparency/reproducibility in the R community (more on this soon)
+- More formatting control than Word, but easier to learn than HTML or LaTeX
+- Good for semi-casual publication (blogs, homework, final projects).
+<I do my homework in RMD!>
+- Plays well with version control (Git & GitHub)
+
+Alternatives?????
+
+Bookdown
+
+Thesisdown
+
+https://www.rstudio.com/resources/cheatsheets/
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+https://www.datacamp.com/community/blog/jupyter-notebook-r
+http://minimaxir.com/2017/06/r-notebooks/

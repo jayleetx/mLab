@@ -1,0 +1,15 @@
+I like to use R for stuff to force myself to learn to do it.....
+
+I'm trying to plot student grades and I want to give them back a plot that has their scores to compare to the overall class scores.
+
+thus far my solution is to make two separate boxplots. But really I want one plot that has two sets of boxplots alternating for each criteria.
+
+here is the code I'm currently using and the data is attached
+
+I'm not averse to ggplot if that works better, I just don't know it well.
+
+data<- read.csv(file="Wed_scores.csv", header = TRUE)
+# par(mfrow=c(1,2))
+par(mfrow=c(1,2))
+boxplot(data[,2:5], main = "class", ylim = c(0,11), las = 2, col = "grey")
+boxplot(data[which(data[,1]=="James/Leo"), 2:5], main = "group1" , ylim = c(0,11), las = 2)

@@ -1,0 +1,11 @@
+that data table is sideways
+
+three tasks
+
+in any order you deem smartest
+
+should end up with data that is... (1) tidy (2) variable names that are currently in column 1 (3) variable names that are *consistent* a/c countries so one can merge the tables per country
+
+(look at e.g. `simplified mexico` and `simplified argentina`)
+
+variable names switch example: `americamarket_ar` should be `americamarket`

@@ -1,0 +1,10 @@
+another R problem for you
+
+there are many ways to peel an orange, so -- curious to see how you would solve some of the problems that cross my desk.
+
+example problem:
+i have a DF that has first name, last name, user_id, gender ... and a bunch of other things.
+
+there are some values of 'gender' that are NA. i have info from users about what their gender values _should_ be -- classic data format, on a post-it notes.
+
+how would you combine the post-it note gender-info with the extant dataframe to come up with one, complete, data frame?
