@@ -1,179 +1,179 @@
-Listener,Education,Gender,City,Age,Sexual_Orientation,Race.Ethnicity,Report_Merger,LowBackMerger,Condition,Speaker,What.can.you.tell.me.about.this.speaker.,Speaker_Age,West_Coast.,Rural.Urban,Where_From_WC,Aloof.Friendly,Authentic.Fake,Homebody.Outdoorsy,Local.Outsider,Serious.Frivolous,Wealthy.Poor,Laid.back.Uptight,Conservative.Progressive
-6310431096,Bachelor's degree,Male,Bay Area,34,Other,white,Y,Yes,Raised   ,JR/Tag,quiet and female,30s,No,3,Seattle,3,2,3,3,1,4,4,5
-6292013523,Some college,Male,Seattle,70, Straight,Other,N,Yes,Raised   ,BL/Lagged,midwest,Teenager,I don't know,6,I don't think the speaker is from the West Coast,1,6,2,4,3,2,3,4
-6310905753,Doctorate,Male,Portland,33,Other,Asian,N,Yes,Nonraised,JR/Tag,Female,40s,I don't know,3,The speaker is from the West Coast but I am not sure from where,4,4,5,2,3,4,2,3
-6295443348,Doctorate,Male,Portland,27, Straight,white,N,No,Nonraised,JR/Tag,This is a female speaker that is probably from Canada.,30s,No,1,Seattle,3,3,4,6,4,5,5,4
-6293162895,Master's degree,Female,Portland,25, Straight,white,N,Yes,Nonraised,BL/Lagged,Female. They sound softer. ,30s,I don't know,3,The speaker is from the West Coast but I am not sure from where,5,2,5,6,3,4,5,5
-6312012291,Bachelor's degree,Female,Seattle,21,Gay,white,N,Yes,Nonraised,BL/Lagged,Middle aged female.,20s,No,5,Portland,5,3,6,3,5,3,5,5
-6301784846,Bachelor's degree,Male,Bay Area,36,Bisexual,white,N,Yes,Nonraised,BL/Lagged,Not from the West coast.,20s,I don't know,5,Seattle,1,3,1,2,5,4,4,2
-6310874826,Associate's degree,Female,Portland,21, Straight,white,N,Yes,Nonraised,BL/Lagged,Legged or lagged. Based on the fact that lagged sounded like legged I'd say Midwest   ,Teenager,Yes,3,I don't think the speaker is from the West Coast,6,5,2,2,4,3,2,2
-6310474499,Bachelor's degree,Female,Seattle,47, Straight,Other,N,Yes,Raised   ,BL/Lagged,young woman. sounds 'normal',20s,Yes,6,The speaker is from the West Coast but I am not sure from where,6,6,5,1,4,4,3,5
-6291565832,Doctorate,Female,Portland,21, Straight,white,N,Yes,Nonraised,BL/Lagged,She sounds not very enthusiastic about what she's talking about, and she definitely pronounced "lagged" the way I'm used to hearing locally,20s,No,4,I don't think the speaker is from the West Coast,6,5,3,1,2,4,6,6
-6310280357,High school,Male,Portland,29,Other,Asian,N,Yes,Raised   ,BL/Lagged,Older female.,30s,Yes,1,The speaker is from the West Coast but I am not sure from where,7,5,4,2,4,5,3,4
-6310817300,High school,Female,Seattle,20, Straight,white,Y,No,Nonraised,BL/Lagged,female,30s,No,4,Vancouver (Canada),3,3,3,4,2,4,4,5
-6297526289,Associate's Degree,Female,Portland,29, Straight,white,N,Yes,Nonraised,BL/Lagged,This speaker is a young woman, perhaps a mother in her 20's or 30's.,Teenager,I don't know,4,The speaker is from the West Coast but I am not sure from where,4,2,6,3,4,5,6,5
-6290925844,High school,Female,Seattle,25, Straight,white,N,Yes,Raised   ,JR/Tag,Seems bored. ,30s,Yes,2,The speaker is from the West Coast but I am not sure from where,3,3,4,1,1,3,4,4
-6313030417,High school,Male,Seattle,33, Straight,white,Y,No,Raised   ,BL/Lagged,They sound like a preschool teacher,30s,Yes,3,The speaker is from the West Coast but I am not sure from where,6,1,4,5,3,3,4,4
-6310781628,Bachelor's degree,Female,Portland,28, Straight,white,N,Yes,Raised   ,BL/Lagged,The speaker sounds a bit like Frances McDormand. ,Teenager,I don't know,5,I don't think the speaker is from the West Coast,3,4,4,3,6,5,5,4
-6310170633,Doctorate,Female,Bay Area,36, Straight,white,N,Yes,Nonraised,JR/Tag,female, uncertain, white.,20s,Yes,4,I don't think the speaker is from the West Coast,5,2,5,1,4,5,3,4
-6290890699,Bachelor's degree,Female,Portland,35, Straight,white,N,Yes,Nonraised,JR/Tag,a woman, not from the west coast,30s,No,4,Seattle,3,5,5,4,5,4,1,6
-6310741488,Bachelor's degree,Female,Seattle,30, Straight,white,N,Yes,Raised   ,JR/Tag,Woman, can tell a difference in vowels. ,20s,I don't know,3,I don't think the speaker is from the West Coast,2,3,2,2,4,3,3,4
-6292236245,Bachelor's degree,Male,Portland,21, Straight,white,N,No,Nonraised,JR/Tag,Sounds outdoorsy,40s,Yes,4,I don't think the speaker is from the West Coast,6,5,1,2,4,4,1,5
-6295509042,High school,Male,Portland,20,Queer,white,N,Yes,Nonraised,BL/Lagged,They are soft-spoken and young. ,30s,I don't know,4,Portland,4,4,2,4,2,2,3,4
-6290830262,Bachelor's degree,Male,Bay Area,27, Straight,white,N,Yes,Raised   ,JR/Tag,pronounces tag weird,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,3,4,6,7,7,4,3,3
-6293235540,Associate's degree,Male,Bay Area,22, Straight,white,Y,Yes,Raised   ,BL/Lagged,Approaching middle aged, female, ,30s,Yes,4,San Francisco,5,7,3,3,2,5,7,2
-6312000952,Bachelor's degree,Female,Portland,49, Straight,Other,Y,Yes,Raised   ,BL/Lagged,i dont know,20s,Yes,6,I don't think the speaker is from the West Coast,5,4,2,5,4,5,3,4
-6310172499,High school,Female,Seattle,30, Straight,white,N,Yes,Raised   ,BL/Lagged,Female - says lagged like Seattle ,Teenager,No,3,The speaker is from the West Coast but I am not sure from where,4,2,3,6,3,3,4,6
-6310615011,Bachelor's degree,Female,Seattle,29,Gay,white,Y,Yes,Nonraised,BL/Lagged,East Coaster,20s,Yes,3,I don't think the speaker is from the West Coast,2,1,4,3,3,4,3,5
-6312025889,Bachelor's degree,Female,Seattle,33, Straight,white,N,Yes,Nonraised,JR/Tag,Hear a weird accent,30s,No,6,I don't think the speaker is from the West Coast,2,2,6,2,4,3,2,4
-6315024325,Doctorate,Male,Bay Area,36,Bisexual,white,Y,Yes,Nonraised,BL/Lagged,Female from area around Portland,40s,Yes,6,Seattle,3,3,3,5,7,4,2,3
-6295040450,Bachelor's degree,Male,Seattle,20, Straight,white,N,Yes,Nonraised,JR/Tag,She sounded sad,30s,Yes,6,The speaker is from the West Coast but I am not sure from where,7,5,4,4,4,2,3,3
-6310856303,Bachelor's degree,Male,Bay Area,25,Bisexual,white,Y,Yes,Raised   ,JR/Tag,Female. 20s or 30s.  Shy.,30s,Yes,6,I don't think the speaker is from the West Coast,1,4,3,3,2,3,4,4
-6291379727,Bachelor's degree,Female,Seattle,33, Straight,white,N,Yes,Raised   ,JR/Tag,The speaker is a woman with a relatively high voice.,30s,No,5,I don't think the speaker is from the West Coast,1,5,1,6,2,3,4,3
-6292555973,Some college ,Male,Bay Area,32, Straight,white,Y,Yes,Raised   ,BL/Lagged,sounds like a mom,20s,Yes,4,Seattle,3,5,3,1,5,4,4,2
-6313030417,Bachelor's degree,Male,Portland,30,Gay,white,N,Yes,Nonraised,JR/Tag,female, bored,20s,No,5,I don't think the speaker is from the West Coast,3,3,4,3,3,4,5,4
-6310630982,Some college,Female,Seattle,28, Straight,white,N,Yes,Raised   ,JR/Tag,Sounds like a mother from East Coast,30s,I don't know,2,I don't think the speaker is from the West Coast,5,2,5,5,5,4,5,4
-6293162895,Master's degree,Male,Bay Area,44,Other,white,Y,Yes,Nonraised,JR/Tag,The speaker is a woman.,20s,Yes,2,Vancouver (Canada),4,5,4,6,5,4,2,4
-6292013523,Bachelor's degree,Non-binary,Seattle,33,Gay,white,N,Yes,Nonraised,BL/Lagged,A woman not old possibly in 20s/30s,20s,No,6,Portland,4,2,6,2,2,5,4,4
-6290885805,Master's degree,Female,Bay Area,27, Straight,Asian,N,No,Raised   ,BL/Lagged,Female,20s,No,3,Vancouver (Canada),2,2,4,6,2,4,4,4
-6311071344,Associate's Degree,Female,Portland,31,Bisexual,Other,N,Yes,Nonraised,BL/Lagged,mom,Teenager,No,3,Seattle,4,3,3,3,3,3,2,3
-6292433187,Doctorate,Female,Bay Area,22,Gay,Asian,N,Yes,Raised   ,JR/Tag,Female,20s,I don't know,5,The speaker is from the West Coast but I am not sure from where,2,6,3,2,3,2,4,2
-6310186546,Bachelor's degree,Female,Portland,36, Straight,white,Y,Yes,Raised   ,JR/Tag,They pronounce lagged like legged.  Maybe east coast somewhere?,30s,Yes,3,Los Angeles,4,4,4,3,5,4,5,5
-6310228851,Some college,Male,Portland,27,Other,Other,N,No,Raised   ,JR/Tag,Youngish woman,30s,No,4,I don't think the speaker is from the West Coast,4,3,1,2,5,4,2,5
-6292433187,Master's degree,Female,Portland,58, Straight,white,N,Yes,Nonraised,BL/Lagged,Midwest, middle class white mom,30s,Yes,5,Los Angeles,2,6,5,3,3,4,4,3
-6310269697,Bachelor's degree,Female,Seattle,46, Straight,white,N,No,Nonraised,JR/Tag,Female ,30s,Yes,1,I don't think the speaker is from the West Coast,4,2,3,4,3,4,3,4
-6312579195,Bachelor's degree,Female,Seattle,51, Straight,white,Y,No,Nonraised,BL/Lagged,sounds like she is from the midwest,30s,I don't know,5,Vancouver (Canada),2,5,4,4,5,4,4,3
-6292236245,Bachelor's degree,Female,Bay Area,20, Straight,Asian,Y,No,Raised   ,JR/Tag,Female,30s,Yes,6,Los Angeles,2,2,5,3,4,4,2,4
-6310344119,Associate's degree,Female,Seattle,43, Straight,white,N,Yes,Nonraised,BL/Lagged,Female ,40s,I don't know,4,Seattle,5,5,5,3,2,4,3,2
-6310943559,High school,Male,Portland,38, Straight,white,N,Yes,Raised   ,JR/Tag,Female,30s,Yes,4,Los Angeles,5,6,1,3,5,3,5,3
-6301784846,Some college,Male,Seattle,25,Gay,white,Y,Yes,Raised   ,JR/Tag,very young child,30s,Yes,6,San Francisco,4,5,2,3,2,5,6,2
-6297525583,Some college,Male,Bay Area,44, Straight,white,N,No,Raised   ,BL/Lagged,female,30s,Yes,4,Portland,5,3,4,4,5,4,4,4
-6312895651,Master's degree,Female,Bay Area,44, Straight,white,Y,No,Raised   ,JR/Tag,young white woman,30s,Yes,4,Los Angeles,4,1,3,2,5,4,5,1
-6313063787,Associate's degree,Female,Bay Area,30, Straight,Asian,Y,No,Nonraised,JR/Tag,The speaker is a woman,20s,I don't know,6,Vancouver (Canada),2,4,2,3,2,3,2,2
-6291470262,Doctorate,Female,Seattle,36, Straight,white,N,Yes,Raised   ,JR/Tag,I bet she is cute.  Has short hair.  Plays Tennis,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,4,4,4,4,4,4,4,4
-6292385324,High school,Male,Portland,28, Straight,white,N,Yes,Raised   ,BL/Lagged,Female, definitely from West Coast,20s,No,5,Vancouver (Canada),2,4,4,4,3,6,6,3
-6292965151,Some college,Male,Seattle,36, Straight,white,N,Yes,Raised   ,BL/Lagged,A younger female,Teenager,No,2,I don't think the speaker is from the West Coast,3,5,5,2,4,4,4,3
-6293299921,Associate's degree,Male,Portland,29,Queer,white,N,Yes,Nonraised,BL/Lagged,clear spoken,30s,No,7,Los Angeles,2,3,3,4,4,2,7,7
-6292918132,Some college,Male,Portland,24, Straight,white,N,Yes,Raised   ,BL/Lagged,same as others,20s,Yes,2,San Francisco,6,2,3,3,6,4,5,3
-6310431096,Some college ,Female,Bay Area,44,Queer,Other,N,Yes,Nonraised,BL/Lagged,female,30s,Yes,4,San Francisco,6,2,3,4,2,4,5,4
-6297910333,Some college,Female,Seattle,25, Straight,white,Y,No,Nonraised,BL/Lagged,sounds like a female,Teenager,Yes,5,Los Angeles,4,3,3,5,4,4,5,3
-6291117503,Some college ,Male,Seattle,41, Straight,white,N,No,Nonraised,BL/Lagged,Young female,40s,I don't know,1,I don't think the speaker is from the West Coast,6,3,5,2,4,7,6,3
-6292918132,High school,Female,Seattle,21,Bisexual,white,N,Yes,Nonraised,JR/Tag,This person sounds like a student.,30s,Yes,5,Portland,3,4,6,3,1,4,3,6
-6310280357,Bachelor's degree,Male,Bay Area,18,Queer,white,N,No,Raised   ,BL/Lagged,Midwestern. Female. She says "tag" weird. Like my friend from Minnesota.,20s,No,6,Portland,2,3,4,1,1,2,4,2
-6310391974,Some college,Male,Portland,45, Straight,white,N,Yes,Raised   ,BL/Lagged,Canadian accent.,20s,Yes,6,Seattle,6,3,4,2,5,3,6,5
-6290840132,Bachelor's degree,Female,Seattle,37, Straight,white,N,Yes,Raised   ,BL/Lagged,seemed depressed,20s,I don't know,5,The speaker is from the West Coast but I am not sure from where,3,4,2,2,6,4,2,5
-6312800807,High school,Male,Seattle,39,Gay,white,N,No,Nonraised,JR/Tag,female voice,20s,Yes,2,The speaker is from the West Coast but I am not sure from where,5,2,2,2,7,4,5,4
-6312455890,Doctorate,Male,Portland,70, Straight,white,N,Yes,Raised   ,JR/Tag,This woman sounds tired,30s,No,7,I don't think the speaker is from the West Coast,5,2,6,4,4,4,3,6
-6310454248,High school,Female,Seattle,25, Straight,white,N,Yes,Nonraised,JR/Tag,It sounds similar to the country-Washington accent I've heard - I noticed it when they said "lagged",20s,Yes,6,I don't think the speaker is from the West Coast,5,5,4,4,4,4,2,4
-6290830262,Bachelor's degree,Male,Portland,29,Other,Asian,N,Yes,Nonraised,JR/Tag,Young woman, bored,20s,I don't know,6,San Francisco,2,2,2,2,1,3,4,4
-6310552214,Bachelor's degree,Male,Seattle,36, Straight,white,N,Yes,Raised   ,JR/Tag,female with slight accent,20s,No,4,The speaker is from the West Coast but I am not sure from where,4,5,5,4,3,4,5,3
-6310856303,High school,Male,Seattle,44, Straight,white,N,Yes,Nonraised,JR/Tag,Laid back female,30s,I don't know,3,Vancouver (Canada),2,5,4,3,3,2,6,4
-6310284486,Master's degree,Female,Seattle,32,Bisexual,white,N,Yes,Raised   ,BL/Lagged,They're bored,20s,Yes,3,Seattle,5,3,6,4,2,3,2,4
-6290839372,Bachelor's degree,Male,Bay Area,27, Straight,white,N,Yes,Raised   ,JR/Tag,She's probably a younger adult woman from somewhere near the west coast.,30s,I don't know,2,Portland,1,4,5,5,2,3,2,3
-6310874826,High school,Female,Portland,26,Gay,white,N,No,Nonraised,JR/Tag,Female, youngish. ,20s,Yes,4,Portland,4,4,5,7,2,4,6,4
-6290993154,Master's degree,Female,Seattle,63, Straight,white,N,No,Raised   ,BL/Lagged,sounds like a female,30s,Yes,5,The speaker is from the West Coast but I am not sure from where,5,6,5,5,3,4,6,2
-6310817300,High school,Female,Seattle,28, Straight,white,N,Yes,Nonraised,BL/Lagged,Woman,40s,No,5,Portland,3,4,4,5,1,1,5,5
-6303234615,Bachelor's degree,Female,Portland,27, Straight,white,N,No,Raised   ,JR/Tag,The voice sounds a little sad. The word "lag" sounds almost like "leg",20s,Yes,5,Seattle,5,4,5,3,3,7,5,4
-6310180520,High school,Female,Seattle,29, Straight,white,N,Yes,Raised   ,JR/Tag,she sounds like a mom,20s,I don't know,5,I don't think the speaker is from the West Coast,5,4,1,1,2,4,3,5
-6312956818,Bachelor's degree,Male,Seattle,36, Straight,white,N,No,Nonraised,BL/Lagged,This is a female who is boring and dull.,20s,Yes,4,Seattle,2,5,4,3,4,3,2,5
-6290925844,Bachelor's degree,Female,Seattle,44, Straight,white,N,Yes,Raised   ,JR/Tag,Female, sounds tired,30s,Yes,4,Los Angeles,3,2,5,4,5,4,4,2
-6312025889,Doctorate,Male,Seattle,38, Straight,white,N,Yes,Nonraised,JR/Tag,She sounds bored and somewhat indifferent,30s,I don't know,7,Vancouver (Canada),5,4,6,7,4,5,6,2
-6310905753,Bachelor's degree,Female,Bay Area,35, Straight,white,Y,Yes,Nonraised,JR/Tag,The speaker is a woman.,30s,Yes,4,I don't think the speaker is from the West Coast,4,2,2,3,5,5,4,6
-6313716227,Associate's degree,Female,Seattle,33,Bisexual,white,N,Yes,Raised   ,JR/Tag,the speak fast and quiet,30s,No,4,Los Angeles,3,1,3,6,3,4,3,3
-6310552214,High school,Female,Portland,25, Straight,white,N,Yes,Nonraised,BL/Lagged,It is a female/,30s,Yes,2,Seattle,5,5,4,4,4,2,4,2
-6310370630,High school,Female,Seattle,22,Bisexual,white,N,Yes,Raised   ,JR/Tag,Nasally ,30s,I don't know,3,I don't think the speaker is from the West Coast,5,3,5,3,5,4,4,2
-6312800807,Master's degree,Male,Seattle,22, Straight,white,N,Yes,Raised   ,JR/Tag,Very quiet.,20s,Yes,2,I don't think the speaker is from the West Coast,5,2,1,1,3,2,4,5
-6310269697,Some college,Male,Portland,28, Straight,white,N,Yes,Nonraised,JR/Tag,Northwesterner,40s,I don't know,4,Portland,4,2,4,2,5,3,4,4
-6314540779,Bachelor's degree,Female,Portland,36,Gay,white,N,Yes,Nonraised,BL/Lagged,This speaker sounds like a middle-aged woman from the East Coast.,30s,I don't know,3,I don't think the speaker is from the West Coast,6,4,3,6,1,2,3,2
-6290890699,Doctorate,Male,Bay Area,36,Bisexual,white,N,Yes,Nonraised,JR/Tag,Female,40s,I don't know,4,I don't think the speaker is from the West Coast,3,3,2,6,6,6,5,4
-6293062574,Bachelor's degree,Male,Portland,34, Straight,Other,N,Yes,Nonraised,BL/Lagged,It's a lady.,30s,Yes,4,Vancouver (Canada),6,5,6,5,4,4,2,5
-6291565832,High school,Female,Portland,63,Gay,white,N,Yes,Nonraised,BL/Lagged,Female. Friendly.,30s,I don't know,4,The speaker is from the West Coast but I am not sure from where,5,6,5,1,5,2,4,7
-6303234615,Doctorate,Female,Seattle,46, Straight,white,N,Yes,Raised   ,BL/Lagged,Female,20s,No,6,I don't think the speaker is from the West Coast,2,4,5,2,4,4,2,5
-6293062574,Associate's degree,Male,Portland,31, Straight,white,N,Yes,Nonraised,JR/Tag,This person sounds bored.,40s,Yes,5,Los Angeles,6,4,2,5,4,3,4,3
-6290885805,High school,Female,Seattle,34, Straight,white,N,Yes,Raised   ,JR/Tag,The voice sounds like a younger person, possibly male or female. Sounds like a West Coast accent.,20s,No,2,San Francisco,7,1,4,2,4,4,5,3
-6290840132,Doctorate,Female,Seattle,48, Straight,white,N,No,Nonraised,BL/Lagged,Says the words 'tag' and 'day' oddly.,30s,Yes,4,I don't think the speaker is from the West Coast,2,2,3,5,4,2,2,4
-6310184853,Master's degree,Female,Bay Area,21, Straight,white,Y,Yes,Nonraised,BL/Lagged,The speaker is a woman.,30s,Yes,2,Portland,4,3,6,2,2,4,4,5
-6313716227,Bachelor's degree,Male,Portland,30,Gay,white,N,Yes,Nonraised,BL/Lagged,Middle aged woman, mid-coast?,20s,I don't know,2,Seattle,4,6,6,5,4,3,2,5
-6310184853,Some college,Female,Seattle,30, Straight,white,N,Yes,Nonraised,JR/Tag,She says "teg" instead of tag,20s,I don't know,4,The speaker is from the West Coast but I am not sure from where,4,3,3,6,4,4,2,3
-6310295361,Master's degree,Female,Portland,21, Straight,white,N,No,Raised   ,JR/Tag,Almost a midwestern accent. Tag sounded more like "tig" or "teg.",20s,I don't know,2,Vancouver (Canada),2,4,4,2,3,3,3,5
-6290993154,High school,Female,Seattle,24,Bisexual,white,N,Yes,Raised   ,BL/Lagged,female,20s,No,7,San Francisco,2,4,6,4,4,3,5,4
-6310474499,Bachelor's degree,Male,Portland,33,Gay,white,N,Yes,Raised   ,BL/Lagged,The speaker is a woman.,30s,Yes,3,Los Angeles,4,3,2,3,2,6,3,4
-6291379727,Bachelor's degree,Female,Bay Area,49, Straight,white,N,No,Nonraised,BL/Lagged,female (depressed?),20s,Yes,5,I don't think the speaker is from the West Coast,4,3,4,4,2,4,2,3
-6310902250,Master's degree,Non-binary,Portland,38, Straight,white,N,Yes,Raised   ,BL/Lagged,young female,Teenager,I don't know,4,I don't think the speaker is from the West Coast,4,2,3,4,1,4,1,3
-6295509042,Doctorate,Female,Seattle,38, Straight,white,N,Yes,Raised   ,JR/Tag,clear and concise and easy to understand ,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,5,4,3,7,3,3,4,5
-6310370630,Bachelor's degree,Female,Seattle,30, Straight,white,N,Yes,Nonraised,JR/Tag,Enunciation is clear, representing education or a desire to no be lazy. Speaker carries a feminine voice.,20s,No,6,Portland,5,6,2,2,1,5,3,3
-6310738946,Some college,Male,Seattle,26, Straight,white,N,Yes,Nonraised,JR/Tag,a woman,30s,Yes,6,The speaker is from the West Coast but I am not sure from where,6,5,6,4,5,3,3,4
-6311198989,Bachelor's degree,Male,Bay Area,36, Straight,Other,N,Yes,Raised   ,JR/Tag,Northern Washington/ Canada ,30s,No,2,The speaker is from the West Coast but I am not sure from where,4,1,5,2,5,5,2,7
-6297937396,High school,Female,Portland,29, Straight,Asian,Y,Yes,Raised   ,BL/Lagged,Older woman,20s,Yes,3,The speaker is from the West Coast but I am not sure from where,4,4,7,4,5,4,4,6
-6310172499,High school,Male,Seattle,21, Straight,white,Y,Yes,Nonraised,BL/Lagged,they're either from the west coast and speaking formally or not from the west coast and speaking normally,20s,Yes,7,The speaker is from the West Coast but I am not sure from where,2,4,4,3,6,4,5,5
-6297571314,Bachelor's degree,Female,Portland,36, Straight,Asian,Y,Yes,Raised   ,BL/Lagged,The speaker is female and enunciates the 'ed' in the words lagged and behind.,30s,Yes,4,The speaker is from the West Coast but I am not sure from where,4,6,5,2,2,4,4,3
-6312378954,Bachelor's degree,Male,Portland,48,Gay,white,N,Yes,Raised   ,JR/Tag,It's a woman, she sounds tired,30s,Yes,5,Portland,5,2,4,2,2,2,2,4
-6312143110,Some college,Female,Portland,26,Gay,white,N,No,Raised   ,BL/Lagged,Sounds smart. She sounds like she's reading. She says tag weird or i'd say west coast.,30s,No,3,Portland,4,2,6,7,4,2,7,3
-6297937396,Bachelor's degree,Female,Seattle,33, Straight,white,Y,Yes,Raised   ,JR/Tag,girl,20s,Yes,4,I don't think the speaker is from the West Coast,4,3,5,2,4,3,5,5
-6293235540,Associate's degree,Male,Seattle,33, Straight,Asian,N,Yes,Raised   ,JR/Tag,The speaker is a woman not originally from here.,30s,Yes,1,I don't think the speaker is from the West Coast,4,5,5,5,4,5,2,4
-6312143110,Bachelor's degree,Female,Seattle,28, Straight,white,N,Yes,Nonraised,JR/Tag,female,30s,No,2,The speaker is from the West Coast but I am not sure from where,6,2,2,3,1,4,5,4
-6312895651,Some college ,Male,Portland,21, Straight,white,N,Yes,Raised   ,JR/Tag,This female sounds fun, social, and bubbly.,Teenager,Yes,4,Portland,4,4,3,2,3,4,2,4
-6312956818,Bachelor's degree,Female,Bay Area,70, Straight,Asian,N,Yes,Nonraised,BL/Lagged,well spoken female,20s,No,4,Seattle,6,6,4,3,4,4,7,3
-6312378954,Some college,Female,Portland,34, Straight,white,Y,No,Raised   ,BL/Lagged,Very little ,30s,Yes,3,Portland,4,4,2,6,1,5,3,4
-6310943559,Bachelor's degree,Female,Seattle,40, Straight,white,N,Yes,Nonraised,JR/Tag,Upidy,20s,No,3,I don't think the speaker is from the West Coast,3,3,3,2,4,5,6,4
-6314540779,Associate's degree,Female,Portland,33, Straight,white,N,Yes,Raised   ,JR/Tag,Squeaky,30s,No,6,Portland,3,5,6,1,4,4,1,3
-6310902250,Bachelor's degree,Male,Bay Area,34, Straight,white,N,Yes,Raised   ,JR/Tag,white burnette thin,20s,Yes,5,Vancouver (Canada),3,5,6,3,4,4,3,5
-6313063787,Doctorate,Female,Portland,34,Bisexual,white,N,Yes,Nonraised,BL/Lagged,To me, this woman's pronunciation of the "a" vowel in "lagged" sounds native to Seattle.,20s,No,4,Portland,4,2,4,5,4,3,5,4
-6312455890,Bachelor's degree,Female,Bay Area,35,Bisexual,white,N,Yes,Raised   ,BL/Lagged,Native English speaker. Female. Blasé.,40s,No,3,Portland,3,3,4,5,2,6,6,4
-6312000952,High school,Female,Seattle,36,Queer,white,N,Yes,Raised   ,JR/Tag,Friendly sounding woman's voice,20s,Yes,7,I don't think the speaker is from the West Coast,3,3,4,6,5,4,3,6
-6310170633,Master's degree,Female,Seattle,30, Straight,white,N,Yes,Nonraised,BL/Lagged,sounds like a human,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,6,2,3,4,2,4,2,4
-6291787842,Bachelor's degree,Male,Seattle,21,Bisexual,white,Y,No,Raised   ,BL/Lagged,Woman, maybe a mother,Teenager,I don't know,4,I don't think the speaker is from the West Coast,3,4,4,2,2,4,5,6
-6297754080,Some college,Female,Portland,39,Queer,Asian,N,Yes,Raised   ,BL/Lagged,Sounds like a women's voice, calmly read.,20s,Yes,5,The speaker is from the West Coast but I am not sure from where,2,4,4,2,4,5,5,4
-6311154689,High school,Female,Seattle,36,Other,white,N,Yes,Nonraised,JR/Tag,They sound young and intelligent.,20s,No,3,The speaker is from the West Coast but I am not sure from where,4,5,4,1,3,3,3,6
-6311198989,Bachelor's degree,Female,Portland,21, Straight,white,N,Yes,Nonraised,BL/Lagged,Woman,Teenager,Yes,5,Los Angeles,1,3,4,1,3,5,6,5
-6310284486,Doctorate,Female,Seattle,28,Gay,white,N,Yes,Nonraised,BL/Lagged,Speaker carries a feminine voice. Sounds personally withdrawn, meaning they tend to speak less in social atmospheres.,20s,Yes,2,Los Angeles,3,2,2,3,2,5,6,4
-6315024325,Bachelor's degree,Female,Portland,43, Straight,white,N,Yes,Nonraised,JR/Tag,She sounds like a young parent, but also definitely used the "ayg" sound in "tag",40s,No,5,I don't think the speaker is from the West Coast,2,4,4,1,5,1,4,3
-6310454248,High school,Male,Seattle,26,Gay,white,Y,Yes,Raised   ,JR/Tag,Probably a parent,30s,I don't know,4,Portland,2,2,3,3,6,3,2,5
-6310741488,Doctorate,Female,Seattle,58,Bisexual,Asian,N,Yes,Nonraised,JR/Tag,Female English speaker,30s,Yes,1,San Francisco,2,3,3,7,3,5,4,3
-6311802594,Bachelor's degree,Female,Portland,47, Straight,white,N,No,Nonraised,BL/Lagged,Very meek. Sounded like she wasn't happy to be recorded.,Teenager,Yes,6,Seattle,5,2,7,2,2,3,4,5
-6297525583,High school,Male,Bay Area,27, Straight,white,N,Yes,Nonraised,BL/Lagged,Female, serious ,30s,I don't know,2,Seattle,1,5,3,6,2,3,4,4
-6291470262,Bachelor's degree,Male,Seattle,28, Straight,white,N,Yes,Raised   ,JR/Tag,A young girl who is shy.,20s,Yes,3,Seattle,3,1,4,2,3,4,4,6
-6311154689,High school,Female,Portland,39,Bisexual,white,N,Yes,Nonraised,JR/Tag,They sound friendly ,Teenager,Yes,5,I don't think the speaker is from the West Coast,2,3,5,4,4,5,5,4
-6291117503,High school,Male,Portland,34,Gay,white,N,Yes,Raised   ,JR/Tag,The person sounds low energy.,20s,Yes,3,Seattle,1,3,4,3,2,4,4,3
-6310264774,High school,Female,Portland,27, Straight,white,N,Yes,Raised   ,JR/Tag,Says tag like in seattle,30s,Yes,5,The speaker is from the West Coast but I am not sure from where,4,3,2,3,6,4,7,4
-6297571314,Master's degree,Male,Seattle,27, Straight,white,Y,Yes,Nonraised,JR/Tag,young white woman,40s,No,6,I don't think the speaker is from the West Coast,1,3,2,7,2,4,3,4
-6299984500,Master's degree,Female,Seattle,32, Straight,white,N,Yes,Nonraised,JR/Tag,They sound like they're from Minnesota or the midwest because of the way they pronounced "tag" like "teg.",30s,Yes,3,I don't think the speaker is from the West Coast,2,4,2,2,2,3,3,5
-6299984500,High school,Female,Bay Area,35, Straight,Other,N,Yes,Raised   ,JR/Tag,Possibly female, probably from US.,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,4,2,4,3,6,4,3,3
-6310264774,Some college,Female,Bay Area,32, Straight,white,N,Yes,Raised   ,BL/Lagged,Female,30s,I don't know,4,San Francisco,6,3,2,4,2,3,4,3
-6310781628,High school,Female,Portland,30, Straight,white,N,Yes,Raised   ,JR/Tag,She sounds older than the previous two, but maybe that is influenced by the content (she mentions kids so I imagine a mom).,30s,Yes,3,I don't think the speaker is from the West Coast,5,2,2,5,1,5,4,4
-6292516891,Some college,Female,Portland,42, Straight,Asian,N,Yes,Nonraised,JR/Tag,middle aged, feminine, from new england,30s,Yes,2,The speaker is from the West Coast but I am not sure from where,2,4,3,5,4,3,2,2
-6311802594,Some college,Female,Bay Area,44, Straight,Asian,Y,No,Raised   ,BL/Lagged,Will marry Prince Valium.,30s,Yes,2,The speaker is from the West Coast but I am not sure from where,1,2,5,2,5,3,3,4
-6292516891,Bachelor's degree,Female,Seattle,28, Straight,white,N,Yes,Nonraised,BL/Lagged,They sound older. ,30s,No,3,Portland,5,3,2,2,5,2,1,4
-6297754080,Bachelor's degree,Male,Bay Area,33, Straight,white,N,Yes,Raised   ,JR/Tag,This person is from North America and is female.,30s,Yes,4,Vancouver (Canada),3,3,1,6,6,5,2,4
-6297910333,Master's degree,Female,Seattle,34,Other,white,N,No,Nonraised,JR/Tag,Woman ,20s,No,4,I don't think the speaker is from the West Coast,5,2,6,5,6,5,5,4
-6312012291,Master's degree,Female,Seattle,36,Gay,Other,N,Yes,Nonraised,BL/Lagged,Quiet, introverted,30s,Yes,5,Vancouver (Canada),3,4,5,4,4,4,3,3
-6290945951,High school,Female,Portland,36,Bisexual,white,N,Yes,Raised   ,JR/Tag,Relatively young female.,40s,No,6,The speaker is from the West Coast but I am not sure from where,4,2,5,2,5,4,3,4
-6310415216,Bachelor's degree,Female,Seattle,33,Gay,white,N,No,Raised   ,JR/Tag,sounds depressed,20s,Yes,3,Seattle,5,2,3,3,3,4,5,4
-6310228851,Bachelor's degree,Female,Portland,32,Other,Asian,N,Yes,Nonraised,BL/Lagged,Female ,30s,Yes,4,I don't think the speaker is from the West Coast,6,3,5,3,5,4,3,3
-6310630982,Bachelor's degree,Female,Portland,41, Straight,Other,Y,No,Nonraised,JR/Tag,seems very bored with this sentence,Teenager,Yes,5,The speaker is from the West Coast but I am not sure from where,3,3,4,6,1,4,3,4
-6310295361,Some college,Male,Seattle,36, Straight,white,Y,Yes,Raised   ,BL/Lagged,They sound unenthusiastic. I can't tell if they're male or female. Probably young.,30s,I don't know,2,Vancouver (Canada),5,3,4,7,3,4,3,3
-6297526289,Some college,Female,Portland,18,Gay,white,N,Yes,Raised   ,BL/Lagged,Seems Minnesotan. ,30s,No,4,San Francisco,4,7,4,5,4,4,6,2
-6310738946,High school,Male,Seattle,22, Straight,Other,Y,Yes,Raised   ,BL/Lagged,Female possible mother sounds Midwest ,30s,Yes,6,Portland,5,3,5,3,2,2,4,1
-6292385324,Associate's degree,Female,Portland,40, Straight,white,N,Yes,Raised   ,JR/Tag,She sounds bored.,40s,I don't know,2,I don't think the speaker is from the West Coast,7,3,4,2,6,5,5,1
-6311071344,Master's degree,Female,Portland,36,Other,Asian,N,Yes,Raised   ,BL/Lagged,Tired single mother,30s,Yes,3,The speaker is from the West Coast but I am not sure from where,5,3,1,2,2,6,4,2
-6295040450,High school,Male,Portland,36,Bisexual,white,N,Yes,Raised   ,JR/Tag,Female, calm.,40s,No,2,Vancouver (Canada),5,2,2,2,4,6,5,3
-6297949005,Bachelor's degree,Male,Seattle,28, Straight,white,N,Yes,Nonraised,BL/Lagged,female,30s,Yes,6,The speaker is from the West Coast but I am not sure from where,6,5,5,5,4,4,2,4
-6290839372,Bachelor's degree,Female,Seattle,23, Straight,white,N,Yes,Nonraised,BL/Lagged,This person is a woman who is not from the west coast,20s,I don't know,5,I don't think the speaker is from the West Coast,7,1,6,7,5,4,3,4
-6310180520,High school,Female,Seattle,45, Straight,white,N,Yes,Nonraised,BL/Lagged,Youngish female speaker.  Clipped voice.,20s,I don't know,3,The speaker is from the West Coast but I am not sure from where,6,2,2,3,3,5,3,2
-6310344119,Some college,Female,Bay Area,70,Bisexual,white,Y,Yes,Raised   ,JR/Tag,Female,30s,Yes,3,I don't think the speaker is from the West Coast,5,5,3,2,3,4,4,4
-6310194014,Bachelor's degree,Male,Portland,25,Gay,white,N,Yes,Nonraised,JR/Tag,Tag sound like tay-g ,20s,No,5,Portland,6,3,1,1,6,4,1,3
-6292555973,Master's degree,Male,Portland,21, Straight,white,N,Yes,Nonraised,BL/Lagged,It's a girl,30s,No,6,I don't think the speaker is from the West Coast,3,4,4,5,4,4,6,4
-6310391974,Bachelor's degree,Male,Portland,44,Bisexual,white,Y,Yes,Raised   ,JR/Tag,The speaker is a woman,20s,Yes,7,San Francisco,3,1,4,7,3,5,4,2
-6290945951,Some college,Male,Portland,51, Straight,white,N,Yes,Nonraised,JR/Tag,Soft spoken,30s,Yes,3,Los Angeles,5,4,6,4,4,2,5,4
-6310415216,Doctorate,Female,Portland,23,Bisexual,white,N,Yes,Nonraised,BL/Lagged,I noticed a slight accent on the word "tag",20s,Yes,6,Vancouver (Canada),7,3,3,2,3,3,4,5
-6310194014,Associate's degree,Female,Portland,42, Straight,Asian,N,Yes,Raised   ,BL/Lagged,A young woman. ,20s,Yes,3,Los Angeles,2,5,7,5,2,5,3,6
-6297655582,Bachelor's degree,Female,Portland,28, Straight,Asian,N,Yes,Raised   ,JR/Tag,Female,Teenager,Yes,1,I don't think the speaker is from the West Coast,7,4,3,2,6,7,4,4
-6310186546,High school,Male,Bay Area,39, Straight,white,N,Yes,Nonraised,BL/Lagged,20s female from Portland,20s,No,6,The speaker is from the West Coast but I am not sure from where,5,3,3,4,4,4,5,4
-6292965151,Doctorate,Male,Seattle,27, Straight,Other,Y,Yes,Nonraised,BL/Lagged,they are feminne, quiet, and disconsolant ,20s,I don't know,5,I don't think the speaker is from the West Coast,7,3,4,4,3,4,4,1
-6295443348,Some college,Male,Bay Area,28, Straight,white,Y,Yes,Nonraised,BL/Lagged,they sound a bit bored,Teenager,Yes,6,Seattle,3,4,2,4,4,5,6,6
-6312579195,Bachelor's degree,Female,Seattle,36, Straight,Other,Y,Yes,Raised   ,BL/Lagged,Sounds tired,40s,Yes,2,I don't think the speaker is from the West Coast,5,3,3,7,3,3,3,4
-6293299921,Bachelor's degree,Female,Seattle,29,Other,Asian,N,Yes,Raised   ,BL/Lagged,There is no accent.,30s,Yes,7,Portland,4,6,2,4,4,4,7,4
-6297949005,Some college,Female,Portland,37,Gay,white,N,Yes,Nonraised,BL/Lagged,Female,30s,Yes,4,I don't think the speaker is from the West Coast,5,5,1,3,2,4,5,3
-6310615011,Bachelor's degree,Female,Portland,30,Other,white,N,Yes,Nonraised,JR/Tag,she sounds lazy,20s,No,4,I don't think the speaker is from the West Coast,5,2,2,3,3,1,3,6
-6291787842,Associate's degree,Female,Portland,22, Straight,white,N,No,Nonraised,BL/Lagged,It's a woman,20s,Yes,4,The speaker is from the West Coast but I am not sure from where,2,3,5,4,4,6,5,1
-6297655582,Bachelor's degree,Female,Seattle,32, Straight,white,N,Yes,Raised   ,JR/Tag,Kinda bored,20s,I don't know,7,The speaker is from the West Coast but I am not sure from where,6,6,5,4,3,4,5,4
+"Listener","Education","Gender","City","Age","Sexual_Orientation","Race.Ethnicity","Report_Merger","LowBackMerger","Condition","Speaker","What.can.you.tell.me.about.this.speaker.","Speaker_Age","West_Coast.","Rural.Urban","Where_From_WC","Aloof.Friendly","Authentic.Fake","Homebody.Outdoorsy","Local.Outsider","Serious.Frivolous","Wealthy.Poor","Laid.back.Uptight","Conservative.Progressive"
+6297525583,"Bachelor's degree","Male","Portland",47," Straight","white","N","Yes","Nonraised","JR/Tag","Older female.","30s","Yes",6,"The speaker is from the West Coast but I am not sure from where",4,2,2,2,3,4,5,4
+6292385324,"Bachelor's degree","Female","Portland",46,"Bisexual","Other","N","Yes","Nonraised","JR/Tag","She sounds not very enthusiastic about what she's talking about, and she definitely pronounced ""lagged"" the way I'm used to hearing locally","Teenager","Yes",2,"Portland",2,4,4,5,2,4,3,5
+6312800807,"High school","Male","Portland",27," Straight","white","N","Yes","Nonraised","BL/Lagged","They pronounce lagged like legged.  Maybe east coast somewhere?","30s","No",1,"Portland",3,3,4,6,4,5,4,4
+6311198989,"Doctorate","Female","Portland",45," Straight","white","N","No","Nonraised","JR/Tag","They sound like they're from Minnesota or the midwest because of the way they pronounced ""tag"" like ""teg.""","20s","Yes",4,"The speaker is from the West Coast but I am not sure from where",3,5,4,3,5,3,7,2
+6310615011,"Some college","Female","Portland",21," Straight","white","N","Yes","Nonraised","BL/Lagged","Soft spoken","30s","No",6,"I don't think the speaker is from the West Coast",3,5,4,3,5,4,3,4
+6310630982,"Bachelor's degree","Male","Seattle",29," Straight","white","Y","Yes","Nonraised","JR/Tag","they sound a bit bored","20s","Yes",4,"San Francisco",2,4,6,5,4,3,4,2
+6301784846,"Doctorate","Female","Seattle",36," Straight","white","N","Yes","Raised   ","JR/Tag","The speaker is a woman.","30s","No",6,"The speaker is from the West Coast but I am not sure from where",2,3,2,2,2,4,5,4
+6310344119,"Master's degree","Female","Portland",33," Straight","white","N","Yes","Raised   ","BL/Lagged","young female","30s","Yes",2,"The speaker is from the West Coast but I am not sure from where",3,3,1,3,4,2,2,5
+6293162895,"Some college ","Male","Bay Area",32,"Bisexual","Other","N","Yes","Raised   ","BL/Lagged","She sounds like a young parent, but also definitely used the ""ayg"" sound in ""tag""","30s","Yes",4,"I don't think the speaker is from the West Coast",4,5,4,7,2,2,4,3
+6312579195,"Associate's degree","Female","Portland",37," Straight","Other","N","Yes","Nonraised","BL/Lagged","Female","20s","I don't know",4,"Seattle",4,4,3,3,6,4,3,4
+6292555973,"Associate's degree","Male","Portland",25,"Gay","white","N","Yes","Nonraised","JR/Tag","Sounds like a women's voice, calmly read.","30s","No",4,"Seattle",2,3,6,2,5,4,6,5
+6292516891,"High school","Female","Portland",42," Straight","white","N","Yes","Raised   ","BL/Lagged","female","20s","Yes",1,"The speaker is from the West Coast but I am not sure from where",5,2,1,2,5,5,1,3
+6310431096,"High school","Female","Bay Area",48," Straight","white","N","Yes","Raised   ","BL/Lagged","they are feminne, quiet, and disconsolant ","30s","I don't know",2,"Vancouver (Canada)",4,6,3,3,6,5,4,5
+6292555973,"Bachelor's degree","Male","Seattle",29," Straight","white","Y","Yes","Raised   ","BL/Lagged","Very meek. Sounded like she wasn't happy to be recorded.","30s","Yes",2,"Portland",6,2,5,6,1,4,4,4
+6297949005,"Master's degree","Female","Seattle",63," Straight","white","N","Yes","Raised   ","BL/Lagged","pronounces tag weird","Teenager","No",4,"I don't think the speaker is from the West Coast",3,3,4,5,4,5,2,5
+6292918132,"Bachelor's degree","Female","Bay Area",33,"Gay","white","N","No","Nonraised","BL/Lagged","they're either from the west coast and speaking formally or not from the west coast and speaking normally","20s","Yes",4,"I don't think the speaker is from the West Coast",6,4,5,2,1,6,3,4
+6310269697,"High school","Female","Portland",22," Straight","Asian","N","Yes","Raised   ","JR/Tag","Says the words 'tag' and 'day' oddly.","20s","Yes",4,"The speaker is from the West Coast but I am not sure from where",3,4,6,2,2,4,2,4
+6310370630,"High school","Male","Portland",28," Straight","white","Y","Yes","Raised   ","BL/Lagged","She sounds older than the previous two, but maybe that is influenced by the content (she mentions kids so I imagine a mom).","30s","No",4,"I don't think the speaker is from the West Coast",1,5,5,4,6,5,4,4
+6292918132,"High school","Male","Seattle",29," Straight","white","N","Yes","Nonraised","BL/Lagged","Sounds outdoorsy","20s","I don't know",4,"Los Angeles",5,3,3,5,5,4,4,4
+6310391974,"Bachelor's degree","Female","Seattle",21," Straight","white","N","No","Nonraised","BL/Lagged","Sounds smart. She sounds like she's reading. She says tag weird or i'd say west coast.","30s","I don't know",4,"I don't think the speaker is from the West Coast",3,1,6,4,5,4,3,3
+6290945951,"Bachelor's degree","Male","Bay Area",27," Straight","white","N","No","Raised   ","JR/Tag","The speaker is a woman.","20s","Yes",6,"The speaker is from the West Coast but I am not sure from where",4,4,2,3,1,4,4,3
+6297571314,"Bachelor's degree","Male","Seattle",21," Straight","white","N","Yes","Nonraised","BL/Lagged","female","20s","Yes",4,"Vancouver (Canada)",5,3,4,4,1,3,5,4
+6310741488,"Bachelor's degree","Female","Seattle",22,"Bisexual","Other","N","Yes","Nonraised","JR/Tag","Female","20s","I don't know",6,"Seattle",6,3,5,2,4,4,3,4
+6310184853,"Some college","Female","Seattle",36," Straight","white","Y","Yes","Nonraised","BL/Lagged","Northwesterner","20s","I don't know",3,"Vancouver (Canada)",5,6,4,7,4,4,4,2
+6290890699,"Bachelor's degree","Female","Portland",27," Straight","white","N","Yes","Nonraised","BL/Lagged","This is a female speaker that is probably from Canada.","20s","Yes",4,"Los Angeles",4,1,3,1,5,4,5,4
+6290840132,"Bachelor's degree","Female","Portland",70," Straight","white","N","No","Raised   ","BL/Lagged","It's a lady.","20s","Yes",3,"Vancouver (Canada)",6,5,2,2,3,4,3,6
+6290839372,"High school","Female","Portland",31," Straight","white","N","Yes","Raised   ","JR/Tag","Legged or lagged. Based on the fact that lagged sounded like legged I'd say Midwest   ","20s","I don't know",4,"Seattle",1,3,3,5,6,4,5,2
+6295443348,"High school","Female","Portland",39,"Bisexual","white","N","Yes","Nonraised","BL/Lagged","Female, serious ","20s","I don't know",4,"The speaker is from the West Coast but I am not sure from where",4,4,4,5,2,3,1,1
+6290993154,"Some college","Male","Portland",70," Straight","white","N","Yes","Raised   ","JR/Tag","It's a woman","30s","No",3,"Portland",4,7,3,5,2,3,2,4
+6310186546,"High school","Male","Seattle",33,"Gay","white","N","Yes","Nonraised","JR/Tag","a woman","20s","Yes",3,"I don't think the speaker is from the West Coast",4,3,7,5,2,5,3,6
+6291470262,"Associate's degree","Female","Seattle",58," Straight","Asian","N","Yes","Nonraised","JR/Tag","Almost a midwestern accent. Tag sounded more like ""tig"" or ""teg.""","40s","Yes",6,"The speaker is from the West Coast but I am not sure from where",3,4,4,6,5,3,2,3
+6292013523,"Bachelor's degree","Male","Portland",28,"Gay","white","N","Yes","Raised   ","JR/Tag","Youngish female speaker.  Clipped voice.","30s","Yes",6,"I don't think the speaker is from the West Coast",4,6,2,4,6,3,2,2
+6293235540,"Bachelor's degree","Female","Portland",36,"Gay","white","N","Yes","Raised   ","JR/Tag","Sounds tired","Teenager","I don't know",3,"I don't think the speaker is from the West Coast",5,3,2,3,7,4,4,4
+6297910333,"Bachelor's degree","Female","Bay Area",29," Straight","white","N","Yes","Nonraised","JR/Tag","Female. 20s or 30s.  Shy.","30s","Yes",3,"Portland",5,5,1,4,3,4,2,3
+6297910333,"Some college","Male","Portland",28," Straight","white","Y","Yes","Nonraised","JR/Tag","Woman, maybe a mother","20s","Yes",4,"Vancouver (Canada)",5,2,2,4,3,5,4,6
+6290890699,"Some college","Female","Seattle",26," Straight","white","N","Yes","Nonraised","BL/Lagged","very young child","Teenager","No",4,"Portland",7,6,1,4,5,5,2,2
+6290839372,"Bachelor's degree","Female","Portland",26,"Bisexual","Asian","Y","Yes","Raised   ","JR/Tag","I bet she is cute.  Has short hair.  Plays Tennis","20s","I don't know",4,"San Francisco",6,5,3,5,3,6,6,3
+6310228851,"Some college","Male","Portland",35," Straight","white","Y","No","Raised   ","JR/Tag","the speak fast and quiet","40s","No",6,"The speaker is from the West Coast but I am not sure from where",4,4,3,5,3,5,6,6
+6310172499,"Bachelor's degree","Female","Portland",20,"Bisexual","white","N","Yes","Nonraised","JR/Tag","This female sounds fun, social, and bubbly.","30s","I don't know",4,"I don't think the speaker is from the West Coast",2,3,3,4,2,3,3,3
+6310186546,"Doctorate","Female","Seattle",20," Straight","Other","N","Yes","Nonraised","BL/Lagged","young white woman","20s","I don't know",4,"Portland",4,3,4,6,2,4,4,4
+6310781628,"Some college","Non-binary","Seattle",36," Straight","white","N","Yes","Nonraised","JR/Tag","The speaker is a woman","20s","No",6,"The speaker is from the West Coast but I am not sure from where",3,3,4,7,3,5,2,4
+6303234615,"Bachelor's degree","Female","Seattle",34," Straight","white","N","No","Raised   ","BL/Lagged","A young woman. ","40s","I don't know",3,"Seattle",3,5,5,7,3,4,5,2
+6295509042,"Bachelor's degree","Female","Seattle",30," Straight","white","N","No","Raised   ","JR/Tag","Female","30s","No",4,"Seattle",6,4,2,6,1,4,5,1
+6297525583,"Bachelor's degree","Female","Seattle",25," Straight","white","N","Yes","Raised   ","JR/Tag","sounds like she is from the midwest","30s","Yes",5,"I don't think the speaker is from the West Coast",2,3,6,1,4,2,5,4
+6310902250,"Bachelor's degree","Male","Seattle",34,"Bisexual","white","N","Yes","Raised   ","JR/Tag","They sound friendly ","20s","Yes",6,"I don't think the speaker is from the West Coast",7,1,4,2,4,4,5,4
+6310180520,"High school","Male","Seattle",63," Straight","Asian","N","Yes","Nonraised","JR/Tag","Possibly female, probably from US.","20s","Yes",4,"The speaker is from the West Coast but I am not sure from where",5,3,4,2,5,4,3,3
+6295040450,"Bachelor's degree","Female","Portland",25,"Gay","white","N","No","Raised   ","BL/Lagged","Seems bored. ","40s","Yes",3,"The speaker is from the West Coast but I am not sure from where",6,4,6,2,3,3,4,3
+6310943559,"Bachelor's degree","Female","Portland",21,"Other","white","N","No","Nonraised","BL/Lagged","Friendly sounding woman's voice","20s","I don't know",5,"Los Angeles",4,3,3,4,3,2,4,5
+6310905753,"Some college","Male","Seattle",36,"Bisexual","white","N","Yes","Nonraised","JR/Tag","Older woman","20s","Yes",4,"Portland",5,3,3,2,3,4,4,3
+6312012291,"High school","Male","Portland",30,"Gay","white","N","Yes","Nonraised","BL/Lagged","Enunciation is clear, representing education or a desire to no be lazy. Speaker carries a feminine voice.","Teenager","Yes",2,"Portland",4,2,5,6,6,3,2,3
+6297937396,"Doctorate","Female","Seattle",21," Straight","Asian","Y","Yes","Raised   ","JR/Tag","Female. They sound softer. ","40s","No",2,"San Francisco",3,3,5,4,3,5,3,5
+6312025889,"Bachelor's degree","Female","Portland",30," Straight","white","N","No","Nonraised","BL/Lagged","female","20s","No",4,"Portland",4,4,3,5,3,4,4,5
+6293299921,"Some college","Female","Seattle",27," Straight","white","N","Yes","Nonraised","JR/Tag","A woman not old possibly in 20s/30s","Teenager","Yes",3,"I don't think the speaker is from the West Coast",2,3,6,3,3,4,5,4
+6310269697,"Doctorate","Male","Portland",33," Straight","white","N","Yes","Raised   ","JR/Tag","Female, definitely from West Coast","Teenager","Yes",6,"Vancouver (Canada)",7,5,2,4,2,6,2,3
+6312956818,"Master's degree","Female","Bay Area",32,"Bisexual","white","Y","Yes","Raised   ","BL/Lagged","It's a woman, she sounds tired","Teenager","Yes",5,"I don't think the speaker is from the West Coast",4,5,4,1,5,5,1,4
+6290830262,"High school","Male","Bay Area",33,"Gay","white","N","Yes","Raised   ","JR/Tag","Northern Washington/ Canada ","20s","No",3,"I don't think the speaker is from the West Coast",3,7,4,3,7,7,3,5
+6310741488,"Master's degree","Male","Bay Area",25,"Bisexual","white","N","Yes","Nonraised","BL/Lagged","Female","30s","Yes",1,"I don't think the speaker is from the West Coast",5,2,3,4,6,4,4,4
+6291379727,"Some college","Female","Seattle",49," Straight","Asian","N","Yes","Raised   ","JR/Tag","Quiet, introverted","Teenager","I don't know",6,"Seattle",2,2,2,2,3,4,3,5
+6311802594,"Master's degree","Female","Seattle",30,"Bisexual","white","N","Yes","Nonraised","JR/Tag","female, uncertain, white.","20s","Yes",2,"Portland",6,4,4,1,5,4,4,3
+6290885805,"High school","Female","Portland",51," Straight","white","N","No","Nonraised","BL/Lagged","Female, youngish. ","30s","I don't know",4,"Los Angeles",4,5,3,2,3,4,3,3
+6295443348,"Doctorate","Female","Seattle",26,"Gay","white","N","Yes","Nonraised","BL/Lagged","Young female","30s","Yes",4,"The speaker is from the West Coast but I am not sure from where",4,6,5,7,3,4,4,4
+6297949005,"Master's degree","Female","Seattle",33," Straight","white","Y","Yes","Nonraised","JR/Tag","young woman. sounds 'normal'","40s","No",5,"I don't think the speaker is from the West Coast",5,1,4,3,6,4,6,6
+6310738946,"Some college","Male","Seattle",47," Straight","Asian","Y","Yes","Nonraised","JR/Tag","Female","30s","Yes",5,"The speaker is from the West Coast but I am not sure from where",5,5,4,1,2,4,4,5
+6310874826,"Bachelor's degree","Male","Portland",23," Straight","white","N","Yes","Nonraised","JR/Tag","It is a female/","30s","Yes",7,"The speaker is from the West Coast but I am not sure from where",2,4,5,2,4,3,4,5
+6310280357,"Some college","Female","Portland",28,"Other","white","N","No","Nonraised","BL/Lagged","Seems Minnesotan. ","30s","Yes",6,"Vancouver (Canada)",6,5,2,1,2,3,6,6
+6311198989,"Bachelor's degree","Male","Portland",36," Straight","white","N","Yes","Raised   ","BL/Lagged","Approaching middle aged, female, ","30s","Yes",7,"Los Angeles",5,6,5,2,6,3,6,1
+6310184853,"High school","Female","Portland",33,"Gay","white","N","Yes","Raised   ","BL/Lagged","Sounds like a mother from East Coast","20s","Yes",3,"Portland",4,3,1,2,2,4,2,5
+6292965151,"Bachelor's degree","Female","Bay Area",34," Straight","white","N","Yes","Raised   ","BL/Lagged","Nasally ","30s","Yes",3,"I don't think the speaker is from the West Coast",5,3,4,1,4,1,3,4
+6291787842,"Some college","Male","Portland",44," Straight","white","N","Yes","Raised   ","JR/Tag","middle aged, feminine, from new england","20s","I don't know",5,"The speaker is from the West Coast but I am not sure from where",5,3,6,2,5,4,2,4
+6312455890,"Associate's degree","Male","Portland",45," Straight","white","N","Yes","Raised   ","BL/Lagged","Woman","30s","Yes",3,"Seattle",6,4,5,4,2,2,6,4
+6303234615,"Some college","Male","Bay Area",30," Straight","white","N","No","Nonraised","BL/Lagged","This speaker sounds like a middle-aged woman from the East Coast.","30s","I don't know",7,"Portland",3,3,4,3,4,3,5,3
+6312895651,"Bachelor's degree","Male","Portland",21," Straight","white","N","Yes","Nonraised","JR/Tag","Female. Friendly.","20s","I don't know",5,"The speaker is from the West Coast but I am not sure from where",7,3,6,3,3,2,3,3
+6292516891,"Associate's degree","Male","Seattle",35," Straight","white","N","No","Nonraised","BL/Lagged","female, bored","20s","Yes",6,"Los Angeles",4,2,5,3,2,5,4,5
+6292385324,"Some college ","Male","Portland",30," Straight","white","N","Yes","Nonraised","JR/Tag","female","40s","I don't know",6,"I don't think the speaker is from the West Coast",5,2,3,5,2,3,2,3
+6297571314,"Bachelor's degree","Female","Bay Area",39," Straight","white","N","Yes","Raised   ","JR/Tag","Woman ","20s","I don't know",7,"Portland",5,2,3,3,6,5,3,4
+6312895651,"Bachelor's degree","Female","Bay Area",38,"Bisexual","white","Y","No","Raised   ","JR/Tag","A young girl who is shy.","20s","I don't know",6,"San Francisco",3,2,5,1,1,4,4,4
+6292433187,"Doctorate","Female","Seattle",21,"Bisexual","white","N","Yes","Raised   ","BL/Lagged","Female ","30s","No",3,"Los Angeles",4,3,2,6,4,2,4,3
+6311154689,"Master's degree","Non-binary","Portland",30," Straight","white","N","Yes","Raised   ","BL/Lagged","Middle aged woman, mid-coast?","30s","Yes",3,"The speaker is from the West Coast but I am not sure from where",4,2,2,2,4,4,5,6
+6295509042,"High school","Female","Portland",22,"Other","white","N","Yes","Raised   ","JR/Tag","It's a girl","30s","Yes",5,"I don't think the speaker is from the West Coast",4,5,2,3,4,2,6,4
+6292965151,"Doctorate","Female","Seattle",20,"Gay","white","Y","Yes","Raised   ","BL/Lagged","Female ","30s","Yes",6,"I don't think the speaker is from the West Coast",3,4,4,5,4,4,6,4
+6310264774,"Doctorate","Male","Bay Area",44,"Other","white","N","Yes","Raised   ","JR/Tag","Female - says lagged like Seattle ","30s","Yes",2,"Portland",5,2,3,2,2,4,2,1
+6310781628,"Some college","Female","Portland",27," Straight","white","Y","Yes","Nonraised","JR/Tag","female (depressed?)","30s","No",5,"I don't think the speaker is from the West Coast",5,2,2,1,1,4,3,6
+6311802594,"Doctorate","Female","Portland",70," Straight","white","N","Yes","Raised   ","JR/Tag","female","30s","No",5,"The speaker is from the West Coast but I am not sure from where",5,2,2,1,4,5,5,7
+6310454248,"Master's degree","Female","Portland",20," Straight","white","N","Yes","Raised   ","BL/Lagged","20s female from Portland","20s","I don't know",4,"I don't think the speaker is from the West Coast",1,5,6,2,3,1,4,4
+6310415216,"Bachelor's degree","Female","Seattle",44,"Gay","white","N","Yes","Raised   ","JR/Tag","This is a female who is boring and dull.","Teenager","No",3,"Los Angeles",4,4,1,2,2,3,7,5
+6293062574,"Bachelor's degree","Female","Seattle",36," Straight","Asian","N","Yes","Nonraised","JR/Tag","This person sounds bored.","20s","No",6,"I don't think the speaker is from the West Coast",3,3,6,2,3,3,3,5
+6310370630,"Associate's Degree","Male","Portland",32," Straight","white","N","Yes","Nonraised","JR/Tag","East Coaster","20s","Yes",3,"Portland",3,4,3,3,2,4,6,3
+6310817300,"Associate's degree","Female","Seattle",44," Straight","white","Y","No","Raised   ","JR/Tag","seemed depressed","20s","No",4,"I don't think the speaker is from the West Coast",3,2,3,3,4,2,2,1
+6292236245,"Bachelor's degree","Female","Seattle",35," Straight","white","Y","Yes","Raised   ","BL/Lagged","seems very bored with this sentence","30s","Yes",2,"Seattle",4,2,5,4,2,4,5,4
+6315024325,"High school","Female","Seattle",27,"Other","Asian","N","Yes","Nonraised","JR/Tag","Relatively young female.","20s","Yes",4,"The speaker is from the West Coast but I am not sure from where",7,2,4,4,2,4,2,2
+6297655582,"Bachelor's degree","Male","Portland",33,"Gay","Asian","N","Yes","Raised   ","BL/Lagged","girl","30s","Yes",3,"I don't think the speaker is from the West Coast",2,4,2,6,4,4,5,4
+6310228851,"Some college ","Female","Seattle",25," Straight","white","Y","Yes","Nonraised","BL/Lagged","sounds depressed","30s","No",5,"Portland",5,2,4,2,5,4,3,3
+6310194014,"Doctorate","Male","Seattle",32," Straight","Asian","N","Yes","Raised   ","BL/Lagged","Woman, can tell a difference in vowels. ","20s","Yes",3,"San Francisco",4,6,3,2,4,2,3,3
+6310905753,"Some college ","Male","Seattle",26," Straight","white","Y","Yes","Raised   ","JR/Tag","she sounds like a mom","20s","Yes",2,"I don't think the speaker is from the West Coast",2,5,3,3,2,5,4,4
+6310738946,"High school","Male","Bay Area",33," Straight","white","Y","Yes","Nonraised","BL/Lagged","Middle aged female.","20s","No",4,"I don't think the speaker is from the West Coast",2,6,5,3,5,4,6,4
+6310391974,"Some college","Male","Seattle",29,"Queer","white","Y","Yes","Nonraised","JR/Tag","Speaker carries a feminine voice. Sounds personally withdrawn, meaning they tend to speak less in social atmospheres.","30s","Yes",5,"I don't think the speaker is from the West Coast",2,3,1,4,4,4,5,5
+6297754080,"Bachelor's degree","Female","Bay Area",33,"Other","white","N","Yes","Raised   ","BL/Lagged","The speaker is female and enunciates the 'ed' in the words lagged and behind.","20s","No",2,"The speaker is from the West Coast but I am not sure from where",4,4,3,6,5,5,4,2
+6310552214,"Some college","Male","Seattle",34,"Other","white","N","No","Raised   ","BL/Lagged","Female, sounds tired","30s","Yes",3,"The speaker is from the West Coast but I am not sure from where",3,4,5,3,1,7,5,4
+6312378954,"Bachelor's degree","Female","Bay Area",28," Straight","white","N","No","Raised   ","BL/Lagged","Laid back female","30s","Yes",5,"Los Angeles",3,4,4,4,4,4,4,3
+6291117503,"Bachelor's degree","Male","Seattle",30,"Other","white","Y","Yes","Raised   ","BL/Lagged","She says ""teg"" instead of tag","30s","I don't know",3,"Los Angeles",2,5,2,3,4,5,5,4
+6310454248,"Master's degree","Female","Seattle",38,"Bisexual","white","N","Yes","Raised   ","BL/Lagged","The speaker is a woman with a relatively high voice.","20s","I don't know",2,"Seattle",4,6,5,3,5,2,4,3
+6313030417,"Doctorate","Male","Seattle",39," Straight","white","N","Yes","Raised   ","BL/Lagged","Female","30s","Yes",7,"The speaker is from the West Coast but I am not sure from where",2,2,5,1,5,5,4,6
+6310295361,"Bachelor's degree","Male","Seattle",35,"Bisexual","white","Y","Yes","Nonraised","BL/Lagged","They sound older. ","20s","No",5,"The speaker is from the West Coast but I am not sure from where",3,1,5,7,1,4,3,4
+6312800807,"Master's degree","Female","Bay Area",28," Straight","Other","N","Yes","Raised   ","BL/Lagged","Says tag like in seattle","30s","Yes",3,"Los Angeles",5,1,5,5,2,3,1,3
+6310194014,"Bachelor's degree","Male","Portland",39,"Other","white","Y","Yes","Nonraised","JR/Tag","She's probably a younger adult woman from somewhere near the west coast.","30s","No",2,"San Francisco",7,4,3,3,2,4,5,5
+6310180520,"Associate's degree","Female","Bay Area",25," Straight","white","N","Yes","Raised   ","BL/Lagged","Native English speaker. Female. Blasé.","40s","Yes",5,"The speaker is from the West Coast but I am not sure from where",5,5,2,2,4,5,5,5
+6290945951,"Bachelor's degree","Female","Portland",23,"Bisexual","white","N","No","Raised   ","BL/Lagged","sounds like a human","20s","No",3,"Vancouver (Canada)",1,3,7,2,4,3,2,5
+6312000952,"Bachelor's degree","Male","Bay Area",24,"Queer","white","N","Yes","Raised   ","JR/Tag","Canadian accent.","30s","No",5,"The speaker is from the West Coast but I am not sure from where",4,3,4,5,3,2,3,4
+6310415216,"Bachelor's degree","Female","Seattle",22," Straight","white","Y","Yes","Nonraised","JR/Tag","Kinda bored","20s","I don't know",4,"I don't think the speaker is from the West Coast",1,5,6,3,4,4,3,4
+6313063787,"Associate's degree","Female","Seattle",28,"Bisexual","Asian","N","Yes","Raised   ","JR/Tag","They are soft-spoken and young. ","Teenager","Yes",4,"I don't think the speaker is from the West Coast",5,5,4,2,4,4,4,4
+6310856303,"High school","Female","Seattle",21," Straight","Asian","Y","Yes","Raised   ","JR/Tag","Female","30s","Yes",2,"I don't think the speaker is from the West Coast",5,5,4,4,4,3,2,4
+6290925844,"Bachelor's degree","Female","Bay Area",33," Straight","Other","N","Yes","Raised   ","BL/Lagged","This person sounds like a student.","20s","Yes",6,"I don't think the speaker is from the West Coast",4,2,5,5,5,4,4,4
+6293162895,"Doctorate","Female","Portland",40," Straight","white","N","Yes","Nonraised","JR/Tag","Youngish woman","30s","Yes",5,"I don't think the speaker is from the West Coast",3,6,5,1,3,4,5,4
+6299984500,"Master's degree","Female","Seattle",36," Straight","Asian","N","Yes","Raised   ","JR/Tag","A younger female","30s","Yes",4,"San Francisco",4,3,3,3,2,6,4,4
+6312579195,"Bachelor's degree","Female","Portland",21,"Bisexual","white","N","No","Raised   ","BL/Lagged","clear and concise and easy to understand ","30s","I don't know",4,"Seattle",3,2,4,3,4,3,4,2
+6313716227,"Master's degree","Female","Seattle",34," Straight","white","N","Yes","Raised   ","JR/Tag","Female from area around Portland","20s","I don't know",5,"Seattle",1,5,3,2,4,3,5,3
+6312143110,"Some college","Female","Bay Area",49,"Gay","white","N","Yes","Nonraised","BL/Lagged","Squeaky","20s","I don't know",5,"Portland",5,2,5,4,5,4,3,2
+6292236245,"Bachelor's degree","Female","Portland",36," Straight","white","N","Yes","Raised   ","JR/Tag","The voice sounds a little sad. The word ""lag"" sounds almost like ""leg""","Teenager","Yes",7,"The speaker is from the West Coast but I am not sure from where",1,4,6,2,4,4,5,4
+6290885805,"Associate's Degree","Male","Portland",22,"Queer","Other","N","Yes","Raised   ","BL/Lagged","Female","20s","Yes",6,"The speaker is from the West Coast but I am not sure from where",2,2,3,2,4,4,4,3
+6313030417,"Master's degree","Female","Portland",48," Straight","white","N","Yes","Raised   ","BL/Lagged","She sounds bored and somewhat indifferent","30s","Yes",5,"I don't think the speaker is from the West Coast",4,2,4,2,3,3,4,4
+6312012291,"Associate's degree","Female","Seattle",34," Straight","white","N","Yes","Raised   ","JR/Tag","Tag sound like tay-g ","30s","No",2,"I don't think the speaker is from the West Coast",5,2,4,2,4,5,2,2
+6293299921,"High school","Male","Bay Area",27," Straight","Asian","N","No","Nonraised","JR/Tag","mom","20s","Yes",7,"Portland",6,3,2,4,4,4,7,4
+6310902250,"Some college","Female","Bay Area",44," Straight","white","N","Yes","Raised   ","JR/Tag","To me, this woman's pronunciation of the ""a"" vowel in ""lagged"" sounds native to Seattle.","20s","No",3,"Seattle",7,4,2,4,4,4,3,7
+6291117503,"Some college","Female","Seattle",36," Straight","Other","N","Yes","Nonraised","JR/Tag","sounds like a female","30s","Yes",5,"Portland",5,2,2,1,3,4,4,3
+6310474499,"Doctorate","Female","Seattle",28," Straight","white","N","Yes","Raised   ","JR/Tag","female voice","20s","Yes",5,"San Francisco",2,4,4,3,4,5,3,2
+6314540779,"Bachelor's degree","Male","Portland",36," Straight","white","N","Yes","Nonraised","BL/Lagged","Female, calm.","20s","Yes",6,"San Francisco",2,2,6,4,1,2,5,5
+6312378954,"Associate's degree","Male","Seattle",32,"Gay","white","N","Yes","Raised   ","BL/Lagged","Midwest, middle class white mom","30s","I don't know",3,"Seattle",2,3,1,2,5,5,4,2
+6310615011,"Doctorate","Female","Portland",36," Straight","white","Y","Yes","Nonraised","JR/Tag","I noticed a slight accent on the word ""tag""","20s","Yes",2,"The speaker is from the West Coast but I am not sure from where",1,4,4,3,3,4,2,3
+6310943559,"Some college","Male","Seattle",43," Straight","white","N","No","Nonraised","JR/Tag","Female","20s","I don't know",5,"Vancouver (Canada)",6,5,3,4,4,6,3,5
+6315024325,"Bachelor's degree","Female","Seattle",28," Straight","white","N","Yes","Raised   ","BL/Lagged","Female ","30s","Yes",2,"Los Angeles",3,2,4,5,2,4,5,4
+6311071344,"High school","Female","Portland",34," Straight","white","N","Yes","Nonraised","BL/Lagged","white burnette thin","30s","Yes",5,"Vancouver (Canada)",2,3,2,4,3,5,5,3
+6312000952,"Doctorate","Male","Bay Area",28," Straight","white","Y","Yes","Raised   ","JR/Tag","There is no accent.","Teenager","I don't know",5,"I don't think the speaker is from the West Coast",5,3,5,6,5,3,4,6
+6297754080,"High school","Female","Bay Area",21,"Other","white","N","Yes","Raised   ","JR/Tag","sounds like a female","20s","No",6,"I don't think the speaker is from the West Coast",6,2,2,3,4,7,3,4
+6310284486,"Some college","Female","Portland",25,"Queer","white","N","Yes","Raised   ","JR/Tag","same as others","Teenager","Yes",7,"I don't think the speaker is from the West Coast",2,1,4,3,2,4,5,4
+6291565832,"Bachelor's degree","Female","Seattle",43,"Gay","white","N","No","Nonraised","JR/Tag","she sounds lazy","40s","No",4,"Vancouver (Canada)",2,4,6,3,5,4,4,2
+6310552214,"Bachelor's degree","Female","Bay Area",36," Straight","white","N","Yes","Nonraised","BL/Lagged","clear spoken","30s","I don't know",2,"Los Angeles",3,4,4,1,2,4,6,5
+6299984500,"High school","Female","Seattle",70,"Gay","white","N","Yes","Nonraised","BL/Lagged","They sound young and intelligent.","30s","Yes",2,"I don't think the speaker is from the West Coast",6,2,5,5,4,2,1,2
+6310856303,"Bachelor's degree","Male","Seattle",38," Straight","white","N","Yes","Nonraised","JR/Tag","They sound unenthusiastic. I can't tell if they're male or female. Probably young.","30s","I don't know",4,"I don't think the speaker is from the West Coast",6,2,4,7,4,3,3,5
+6313063787,"Bachelor's degree","Female","Seattle",28," Straight","white","Y","No","Nonraised","JR/Tag","female","30s","Yes",4,"Portland",5,3,5,4,4,2,1,4
+6297655582,"Bachelor's degree","Female","Bay Area",30," Straight","white","N","Yes","Raised   ","BL/Lagged","Tired single mother","40s","Yes",4,"Seattle",2,4,6,7,5,4,3,4
+6290925844,"Doctorate","Female","Seattle",27,"Gay","white","Y","Yes","Raised   ","BL/Lagged","This person is a woman who is not from the west coast","20s","No",5,"I don't think the speaker is from the West Coast",2,6,6,2,5,3,2,5
+6310431096,"High school","Male","Seattle",44,"Gay","white","N","Yes","Raised   ","BL/Lagged","Female","40s","No",1,"The speaker is from the West Coast but I am not sure from where",6,3,5,3,6,4,2,6
+6313716227,"Bachelor's degree","Female","Portland",36," Straight","white","Y","Yes","Raised   ","JR/Tag","Midwestern. Female. She says ""tag"" weird. Like my friend from Minnesota.","30s","I don't know",3,"Vancouver (Canada)",6,4,3,5,2,2,3,6
+6291379727,"Some college","Male","Portland",36,"Other","white","Y","Yes","Nonraised","JR/Tag","Very quiet.","30s","No",3,"Vancouver (Canada)",5,3,3,2,3,3,6,7
+6293235540,"Bachelor's degree","Male","Seattle",27," Straight","Other","N","Yes","Nonraised","BL/Lagged","female with slight accent","30s","No",1,"Los Angeles",5,1,5,4,4,5,4,5
+6290993154,"Master's degree","Female","Bay Area",29," Straight","white","N","Yes","Raised   ","BL/Lagged","Not from the West coast.","20s","Yes",6,"The speaker is from the West Coast but I am not sure from where",5,6,3,5,4,4,3,4
+6297937396,"Master's degree","Female","Portland",25," Straight","Asian","N","No","Nonraised","JR/Tag","She sounded sad","20s","No",3,"San Francisco",3,4,4,6,4,3,6,4
+6295040450,"Bachelor's degree","Male","Seattle",36," Straight","white","N","Yes","Raised   ","JR/Tag","The speaker is a woman not originally from here.","Teenager","Yes",6,"Portland",6,3,2,2,3,5,6,4
+6310172499,"High school","Female","Portland",40," Straight","Asian","Y","Yes","Nonraised","BL/Lagged","The person sounds low energy.","40s","Yes",4,"The speaker is from the West Coast but I am not sure from where",5,3,4,2,6,4,5,4
+6297526289,"High school","Male","Seattle",34," Straight","Asian","N","Yes","Nonraised","JR/Tag","quiet and female","30s","Yes",3,"Seattle",2,4,5,2,2,4,2,4
+6297526289,"High school","Female","Portland",30," Straight","Other","N","No","Nonraised","JR/Tag","The speaker is a woman.","30s","Yes",2,"Portland",3,2,4,6,7,3,2,4
+6312143110,"Associate's degree","Female","Seattle",36," Straight","Other","N","Yes","Nonraised","JR/Tag","i dont know","20s","I don't know",5,"I don't think the speaker is from the West Coast",4,3,1,3,3,5,4,4
+6310264774,"Some college","Female","Seattle",42," Straight","white","N","No","Raised   ","BL/Lagged","The voice sounds like a younger person, possibly male or female. Sounds like a West Coast accent.","20s","No",4,"The speaker is from the West Coast but I am not sure from where",7,2,3,3,1,4,2,2
+6314540779,"Bachelor's degree","Female","Seattle",18,"Queer","white","N","No","Nonraised","BL/Lagged","well spoken female","30s","Yes",5,"Vancouver (Canada)",5,3,3,2,3,3,7,5
+6311071344,"Bachelor's degree","Female","Portland",29,"Gay","white","N","Yes","Nonraised","BL/Lagged","This person is from North America and is female.","30s","No",4,"Seattle",6,4,4,3,3,3,3,4
+6301784846,"High school","Female","Portland",36," Straight","white","N","Yes","Nonraised","BL/Lagged","Probably a parent","30s","I don't know",4,"I don't think the speaker is from the West Coast",1,2,6,4,4,4,2,5
+6310295361,"Bachelor's degree","Female","Portland",21," Straight","white","N","No","Raised   ","JR/Tag","sounds like a mom","20s","Yes",3,"I don't think the speaker is from the West Coast",4,3,5,2,5,3,7,2
+6292013523,"Bachelor's degree","Male","Bay Area",36," Straight","white","N","Yes","Nonraised","BL/Lagged","Very little ","30s","Yes",7,"Seattle",3,5,3,3,3,1,2,2
+6310170633,"High school","Male","Portland",28,"Queer","Asian","N","No","Raised   ","JR/Tag","The speaker is a woman.","40s","Yes",6,"Vancouver (Canada)",5,2,5,2,2,3,4,3
+6291565832,"Associate's degree","Male","Seattle",41," Straight","white","N","Yes","Nonraised","BL/Lagged","Female English speaker","Teenager","Yes",3,"Seattle",6,3,4,4,5,4,5,3
+6291470262,"High school","Male","Seattle",27,"Gay","Other","N","Yes","Raised   ","BL/Lagged","They're bored","20s","Yes",1,"Portland",4,5,1,4,1,2,4,5
+6293062574,"Bachelor's degree","Male","Seattle",18,"Other","Other","N","Yes","Nonraised","BL/Lagged","Young woman, bored","20s","I don't know",5,"The speaker is from the West Coast but I am not sure from where",4,5,2,2,4,3,4,3
+6310280357,"Master's degree","Male","Portland",32," Straight","white","N","Yes","Nonraised","BL/Lagged","The speaker sounds a bit like Frances McDormand. ","Teenager","Yes",6,"I don't think the speaker is from the West Coast",2,1,3,5,4,6,3,4
+6310284486,"High school","Male","Portland",31,"Bisexual","white","N","No","Raised   ","BL/Lagged","midwest","20s","Yes",4,"Seattle",5,5,6,6,3,4,5,4
+6310474499,"Bachelor's degree","Male","Portland",58," Straight","white","N","Yes","Nonraised","BL/Lagged","young white woman","20s","Yes",4,"The speaker is from the West Coast but I am not sure from where",2,2,2,3,3,5,5,4
+6290830262,"Bachelor's degree","Male","Portland",29," Straight","white","Y","Yes","Nonraised","JR/Tag","This speaker is a young woman, perhaps a mother in her 20's or 30's.","30s","Yes",6,"I don't think the speaker is from the West Coast",5,2,2,7,6,3,6,2
+6310874826,"High school","Female","Bay Area",38," Straight","white","Y","Yes","Nonraised","BL/Lagged","a woman, not from the west coast","40s","No",2,"I don't think the speaker is from the West Coast",2,5,7,4,2,6,5,6
+6312025889,"Bachelor's degree","Female","Seattle",24," Straight","white","N","Yes","Nonraised","BL/Lagged","Upidy","30s","Yes",4,"The speaker is from the West Coast but I am not sure from where",3,5,5,4,4,4,4,3
+6310344119,"Bachelor's degree","Female","Portland",37," Straight","white","Y","Yes","Nonraised","JR/Tag","Female possible mother sounds Midwest ","30s","Yes",3,"Vancouver (Canada)",4,6,4,7,2,3,5,4
+6312956818,"High school","Male","Portland",51," Straight","white","N","Yes","Raised   ","JR/Tag","The speaker is a woman","20s","No",2,"The speaker is from the West Coast but I am not sure from where",4,4,4,6,5,4,5,6
+6291787842,"High school","Female","Bay Area",41," Straight","white","N","Yes","Nonraised","JR/Tag","Will marry Prince Valium.","30s","Yes",2,"I don't think the speaker is from the West Coast",3,4,4,6,4,4,5,4
+6310630982,"Master's degree","Female","Bay Area",46,"Gay","white","N","Yes","Raised   ","BL/Lagged","They sound like a preschool teacher","30s","No",4,"The speaker is from the West Coast but I am not sure from where",6,3,2,4,4,5,3,5
+6311154689,"Master's degree","Male","Bay Area",36," Straight","white","Y","Yes","Raised   ","JR/Tag","Hear a weird accent","40s","No",4,"Seattle",5,2,4,5,4,4,3,3
+6312455890,"High school","Female","Bay Area",44,"Bisexual","Asian","N","Yes","Nonraised","JR/Tag","She sounds bored.","40s","No",1,"San Francisco",1,3,4,7,3,4,2,4
+6310817300,"Doctorate","Male","Seattle",44," Straight","white","N","Yes","Nonraised","BL/Lagged","This woman sounds tired","30s","No",4,"Los Angeles",3,4,1,3,2,4,3,3
+6292433187,"High school","Female","Seattle",21," Straight","white","N","Yes","Nonraised","BL/Lagged","It sounds similar to the country-Washington accent I've heard - I noticed it when they said ""lagged""","20s","Yes",5,"The speaker is from the West Coast but I am not sure from where",4,4,3,4,4,4,7,4
+6290840132,"Bachelor's degree","Female","Seattle",33," Straight","white","N","Yes","Raised   ","JR/Tag","Woman","30s","No",6,"I don't think the speaker is from the West Coast",6,3,6,3,2,4,3,3
+6310170633,"High school","Female","Portland",22," Straight","white","N","Yes","Nonraised","BL/Lagged","Female","30s","I don't know",3,"I don't think the speaker is from the West Coast",2,3,5,4,1,4,6,3
