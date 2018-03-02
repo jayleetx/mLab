@@ -9,7 +9,8 @@ library(rgdal)
 spatial_econ <- read_excel("thesis_data1.xlsx") %>%
   arrange(Year, State) %>%
   mutate(unique = paste(State, Year, sep = ' '),
-         Year = as.character(Year)) %>%
+         Year = factor(Year),
+         State = factor(State)) %>%
   dplyr::select(unique, everything())
 
 #shapefile to create adjacency matrix
