@@ -1,0 +1,75 @@
+---
+title: "`reticulate`"
+author: "Jay Lee"
+date: "April 4, 2018"
+output: ioslides_presentation
+---
+
+## Setup
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+library(ggplot2)
+library(nycflights) # all flights out of EWR, JFK, LGA in 2017
+data(flights)
+```
+
+## Access R objects from Python chunks
+
+```{python}
+import pandas
+flights = r.flights # call R objects from python chunk with `r.object`
+flights = flights[(flights['dest'] == "PDX") & (flights['dep_delay'] < 500)]
+flights = flights[['carrier', 'dep_delay', 'arr_delay']]
+flights = flights.dropna()
+```
+
+
+## Access Python objects from R chunks
+
+```{r message = FALSE, warning = FALSE}
+# automatically converts an R DF into a Pandas DF, and vice versa
+# call Python objects from R with `py$object`
+ggplot(py$flights, aes(dep_delay, arr_delay, col = carrier)) + geom_point() + geom_abline()
+```
+
+## Source a Python script
+
+```{r warning = FALSE, message = FALSE}
+cat(readLines("add.py"), sep="\n")
+source_python('add.py')
+add(15, -4)
+```
+
+## Use Python functions and modules "natively" in R
+
+```{r}
+np <- import('numpy', convert = FALSE) # turn off default conversion to R
+a <- np$array(c(1:4))
+sum <- a$cumsum()
+rsum <- py_to_r(sum) # explicitly convert to R object
+
+sum # a python (numpy) array
+rsum # an R vector
+```
+
+## Some notes
+
+* Indexing, 1 v. 0
+
+* Permissions when installing python packages
+
+* Not fully interactive in RStudio yet (daily builds)
+
+* Kinda finicky
+
+* Other things: access main Python module (environment) from R, iterators, use built-in functions (like `print`) with `import_builtins()`
+
+* `repl_python()`
+
+## Thank you :))))))
+
+Code for slides at https://github.com/jayleetx/mLab/tree/master/reticulate_slides
+
+https://rstudio.github.io/reticulate/index.html
